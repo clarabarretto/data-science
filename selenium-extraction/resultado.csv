@@ -1,358 +1,1065 @@
-Hotel,Preço,Checkin,Checkout
-Hotel Veraneio,170.0,2024-05-21,2024-05-22
-ibis Recife Aeroporto,270.0,2024-05-21,2024-05-22
-Inter Hotel,160.0,2024-05-21,2024-05-22
-NovoHotell Recife,278.0,2024-05-21,2024-05-22
-Rede Andrade LG Inn,212.0,2024-05-21,2024-05-22
-TOLIVE One Housi Recife by Carpediem,239.0,2024-05-21,2024-05-22
-Rede Andrade Onda Mar,158.0,2024-05-21,2024-05-22
-Marante Executive Hotel,287.0,2024-05-21,2024-05-22
-Hotel Nacional Inn Recife Aeroporto,225.0,2024-05-21,2024-05-22
-HY Apartments & Hotels,252.0,2024-05-21,2024-05-22
-Beach Class Convention By Hôm - Antigo Bristol Recife,313.0,2024-05-21,2024-05-22
-Transamerica Fit Recife,285.0,2024-05-21,2024-05-22
-Rede Andrade Plaza Recife,189.0,2024-05-21,2024-05-22
-Hotel Gaivota,100.0,2024-05-21,2024-05-22
-Malakoff Residence,149.0,2024-05-21,2024-05-22
-Hotel Uzi Praia,180.0,2024-05-21,2024-05-22
-Scenarium Hotel,227.0,2024-05-21,2024-05-22
-Recife Flats Beach Class Internacional,208.0,2024-05-21,2024-05-22
-Rede Andrade Vela Branca,157.0,2024-05-21,2024-05-22
-Hotel Enseada Boa Viagem,230.0,2024-05-21,2024-05-22
-Hotel Golden Park Recife Boa Viagem,259.0,2024-05-21,2024-05-22
-The Place Hostel,59.0,2024-05-21,2024-05-22
-Bianca Praia Hotel,223.0,2024-05-21,2024-05-22
-Silverton Paiva Experience - Flat,195.0,2024-05-21,2024-05-22
-Zili Pernambuco - Hostel Pousada,54.0,2024-05-21,2024-05-22
-Flat Beach Class Executive - Beira Mar de Boa Viagem,283.0,2024-05-21,2024-05-22
-Hotel Enseada Aeroporto,212.0,2024-05-21,2024-05-22
-Kastel Manibu Recife - Boa Viagem,305.0,2024-05-21,2024-05-22
-Aram Beach Boa Viagem,226.0,2024-05-21,2024-05-22
-Marante Plaza Hotel,327.0,2024-05-21,2024-05-22
-Hotel Uzi Mar,200.0,2024-05-21,2024-05-22
-Cosmopolitan Hostel,44.0,2024-05-21,2024-05-22
-Hotel Luzeiros Recife,500.0,2024-05-21,2024-05-22
-ibis Recife Boa Viagem,513.0,2024-05-21,2024-05-22
-Hotel Euro Suíte Recife Boa Viagem,308.0,2024-05-21,2024-05-22
-Dublê Hotel - The Original,219.0,2024-05-21,2024-05-22
-Vivaz Boutique Hotel,184.0,2024-05-21,2024-05-22
-BEACH CLASS INTERNACIONAL FRENTE MAR,257.0,2024-05-21,2024-05-22
-Flat em Boa Viagem,130.0,2024-05-21,2024-05-22
-Hotel Central,105.0,2024-05-21,2024-05-22
-Flat localizado a 200m Shopping Recife bem Perto da Praia de Boa Viagem e com Wi-Fi 400Mbps,277.0,2024-05-21,2024-05-22
-Fity Hotel,471.0,2024-05-21,2024-05-22
-Radisson Recife,788.0,2024-05-21,2024-05-22
-Flat em Boa Viagem - perto da praia,130.0,2024-05-21,2024-05-22
-Rooftop 470 - Novíssimo Flat Boa Viagem,216.0,2024-05-21,2024-05-22
-Park Hotel,313.0,2024-05-21,2024-05-22
-Bugan Recife Boa Viagem Hotel - by Atlantica,612.0,2024-05-21,2024-05-22
-Ezza Experience - Beach Flat,136.0,2024-05-21,2024-05-22
-Suites Residence,160.0,2024-05-21,2024-05-22
-NAVEGANTES HOTEL VISTA PARA MAR Boa Viagem,224.0,2024-05-21,2024-05-22
-BOA VIAGEM - FLAT ROOFTOP ALTO PADRÃO,235.0,2024-05-21,2024-05-22
-Hotel Coqueiral,160.0,2024-05-21,2024-05-22
-BEIRA MAR- FLAT EXECUTIVE,257.0,2024-05-21,2024-05-22
-Hotel Dan Inn Mar Piedade - Grande Recife,211.0,2024-05-21,2024-05-22
-AZORIM quartos,90.0,2024-05-21,2024-05-22
-Casa Rosarinho 1- RECIFE - Quartos com Banheiros Exclusivos,80.0,2024-05-21,2024-05-22
-Casa Recife Pousada,86.0,2024-05-21,2024-05-22
-Mercure Recife Navegantes,517.0,2024-05-21,2024-05-22
-Pousada 461,200.0,2024-05-21,2024-05-22
-Hotel Saveiro,195.0,2024-05-21,2024-05-22
-ibis budget Recife Jaboatão,205.0,2024-05-21,2024-05-22
-Sun Smart Hotel -,155.0,2024-05-21,2024-05-22
-Pousada Cecosne,179.0,2024-05-21,2024-05-22
-Hotel Juliette,179.0,2024-05-21,2024-05-22
-Excelentes Quartos com banheiros privativos,76.0,2024-05-21,2024-05-22
-Recanto Novo Horizonte,150.0,2024-05-21,2024-05-22
-Grand Mercure Recife Boa Viagem,700.0,2024-05-21,2024-05-22
-Villa d'Oro Hotel,679.0,2024-05-21,2024-05-22
-Lê'Frevo Pernambucano Hostel,70.0,2024-05-21,2024-05-22
-Apartamento Boa Viagem,120.0,2024-05-21,2024-05-22
-Roomo Praia de Boa Viagem Residencial,357.0,2024-05-21,2024-05-22
-Flat Beach Class Executive,243.0,2024-05-21,2024-05-22
-Hotel Barramares,226.0,2024-05-21,2024-05-22
-Pousada Trip Inn Recife,120.0,2024-05-21,2024-05-22
-RESERVA DO PAIVA - A MELHOR CASA PARA TEMPORADA,744.0,2024-05-21,2024-05-22
-Betel Beach Flat Internacional Boa Viagem,330.0,2024-05-21,2024-05-22
-Cantinho Da Del,130.0,2024-05-21,2024-05-22
-Pousada Elo Inn,165.0,2024-05-21,2024-05-22
-Costa Mar Recife Hotel by Atlantica,360.0,2024-05-21,2024-05-22
-Flat Novo em Boa Viagem - Rooftop 470,228.0,2024-05-21,2024-05-22
-Forum Motel,285.0,2024-05-21,2024-05-22
-Golden Point,150.0,2024-05-21,2024-05-22
-Pousada Praia Boa Viagem,150.0,2024-05-21,2024-05-22
-Hotel Jangadeiro,459.0,2024-05-21,2024-05-22
-Hotel Atlante Plaza,1.164,2024-05-21,2024-05-22
-Flat 507 - Rooftop Boa Viagem,180.0,2024-05-21,2024-05-22
-Paiva Home Stay - Bugan Paiva by Flatbpaiva,160.0,2024-05-21,2024-05-22
-Hospedaria,49.0,2024-05-21,2024-05-22
-Casa Aeroporto Pousada,125.0,2024-05-21,2024-05-22
-Apraiana Hostel,58.0,2024-05-21,2024-05-22
-Reef Hostel & Pousada,107.0,2024-05-21,2024-05-22
-Beira-mar Boa Viagem - Costa Vicentina by Bnb Flex,225.0,2024-05-21,2024-05-22
-Flat Recife - Boa Viagem,315.0,2024-05-21,2024-05-22
-POUSADA BRASIL RECIFE,50.0,2024-05-21,2024-05-22
-Hosts BR - Studio Funcional em Boa Viagem(s/taxas),226.0,2024-05-21,2024-05-22
-Edf. Costa do Rio,169.0,2024-05-21,2024-05-22
-Barra Home Stay - Beira mar - 2 QUARTOS,210.0,2024-05-21,2024-05-22
-Apartamento beira-mar em Boa Viagem,120.0,2024-05-21,2024-05-22
-Golden Point Apartamento em Recife,165.0,2024-05-21,2024-05-22
-Betel Flat Executive Praia Boa Viagem,199.0,2024-05-21,2024-05-22
-SUITE e QUARTOS -1 SUITE COM BANHEIRO PRIVATIVO - 2 QUARTOS DUPLOS COM BANHEIRO COMPARTILHADO,87.0,2024-05-21,2024-05-22
-Pousada Sandra Convenções,140.0,2024-05-21,2024-05-22
-Pousada do Forte Recife,182.0,2024-05-21,2024-05-22
-Beira-Mar Boa Viagem - Ivone Asfora by Bnb Flex,235.0,2024-05-21,2024-05-22
-FLAT BEIRA MAR BOA VIAGEM - Radisson Recife Experience,284.0,2024-05-21,2024-05-22
-Flat Beach Class Internacional,252.0,2024-05-21,2024-05-22
-Fit Hostel,49.0,2024-05-21,2024-05-22
-LM Hotels Recife,179.0,2024-05-21,2024-05-22
-Flat Golden Beach - Piedade,153.0,2024-05-21,2024-05-22
-''Apartamento EXCLUSIVO - Novo com 2 Quartos Climatizados Suíte Varanda Piscina e Academia - Vaga na garagem TV de 70'' Localização Premium ao Lado do Shopping Rio Mar - Inclui Enxoval Completo e Mimos!'',380.0,2024-05-21,2024-05-22
-Hotel Pousada Casuarinas,206.0,2024-05-21,2024-05-22
-Beach Class Internacional apartamento,277.0,2024-05-21,2024-05-22
-Casa da Esquina Pousada,72.0,2024-05-21,2024-05-22
-Hosts BR - Flat Beach Class Boa Viagem (sem taxas),266.0,2024-05-21,2024-05-22
-Mangue Oranje Hostel,80.0,2024-05-21,2024-05-22
-Flat em Boa Viagem 100% Equipado,252.0,2024-05-21,2024-05-22
-Hotel Pousada da Praia,175.0,2024-05-21,2024-05-22
-IAA's - Apartamentos beira-mar em Pernambuco,162.0,2024-05-21,2024-05-22
-Praia de Piedade flat frente para o mar completo,122.0,2024-05-21,2024-05-22
-Eros Hotel CDU (Adults Only),135.0,2024-05-21,2024-05-22
-Eros Hotel - Adult Only,170.0,2024-05-21,2024-05-22
-Pousada E Hostel Pernambucana,35.0,2024-05-21,2024-05-22
-Flat Edf Golden Beach,375.0,2024-05-21,2024-05-22
-Flat Beira Mar Recife - Praia de Piedade,325.0,2024-05-21,2024-05-22
-Ramon Hostel Bar,50.0,2024-05-21,2024-05-22
-Pousada Beira Mar,86.0,2024-05-21,2024-05-22
-Nobile Residences Maria Frazão,320.0,2024-05-21,2024-05-22
-Flat - Navegantes Residence Hotel,229.0,2024-05-21,2024-05-22
-Hospedaria Residencial da Torre,120.0,2024-05-21,2024-05-22
-Golden Beach Flat Recife,170.0,2024-05-21,2024-05-22
-Ap. Cobertura Duplex Próx. Praia,339.0,2024-05-21,2024-05-22
-202 Flat Beira Mar Av Boa Viagem,279.0,2024-05-21,2024-05-22
-Hotel Pousada da Praça,160.0,2024-05-21,2024-05-22
-Flat/Boa Viagem - Wi-Fi 400mbps,137.0,2024-05-21,2024-05-22
-Apê Aconchegante,135.0,2024-05-21,2024-05-22
-Rio Park Avenue Number 2 - By TRH Invest,242.0,2024-05-21,2024-05-22
-Conforto e Estilo no Beach Class Santa Maria,117.0,2024-05-21,2024-05-22
-Stay Residence - CASA COMPARTILHADA,64.0,2024-05-21,2024-05-22
-Studio Piedade,98.0,2024-05-21,2024-05-22
-Aconchegante ótima localização e vista para o mar,304.0,2024-05-21,2024-05-22
-Apartamento Royale na praia de Boa Viagem,621.0,2024-05-21,2024-05-22
-Quarto TRIPLO CONFORTAVEL E AMPLO NO BAIRRO DO ESPINHEIRO em RECIFE,150.0,2024-05-21,2024-05-22
-Hotel América,130.0,2024-05-21,2024-05-22
-Qto Duplo próximo ao Shopping Recife,85.0,2024-05-21,2024-05-22
-PEQUENO QUARTO SIMPLES individual  com VENTILADOR,77.0,2024-05-21,2024-05-22
-Rio Park Ave Sea View One - By TRH Invest,359.0,2024-05-21,2024-05-22
-Casa do Meio Pousada,99.0,2024-05-21,2024-05-22
-Flat Executive Beira Mar,282.0,2024-05-21,2024-05-22
-Hotel & Motel Henrique Dias (Adults Only),185.0,2024-05-21,2024-05-22
-Flat Beach Barra - Praia do Paiva - Ilha do amor,194.0,2024-05-21,2024-05-22
-Coração de Boa Viagem,465.0,2024-05-21,2024-05-22
-Hostel solar do lazer,46.0,2024-05-21,2024-05-22
-Betel Beach Flat Boa Viagem,297.0,2024-05-21,2024-05-22
-Flat inteiro vista-mar,225.0,2024-05-21,2024-05-22
-POUSADA LELÊ CONVENÇÕES,200.0,2024-05-21,2024-05-22
-Ramada Flat,238.0,2024-05-21,2024-05-22
-Oxen Hostel 2024,38.0,2024-05-21,2024-05-22
-Flat luxo Boa Viagem Rooftop 470,260.0,2024-05-21,2024-05-22
-STAY POUSADA,100.0,2024-05-21,2024-05-22
-Nexos Motel Piedade - Adults Only,170.0,2024-05-21,2024-05-22
-Moderno Flat Tolive One,144.0,2024-05-21,2024-05-22
-Flat Encantador "Localização Privilegiada e Estilo Sofisticado",166.0,2024-05-21,2024-05-22
-Paiva Home Stay - Vista dos Sonhos,253.0,2024-05-21,2024-05-22
-Flats de Luxo by BnbFlex - Costa Vicentina,245.0,2024-05-21,2024-05-22
-Flat a beira mar Recife,156.0,2024-05-21,2024-05-22
-Pousada Nordestina,150.0,2024-05-21,2024-05-22
-Flats Mobiliados Zona Norte Casa forte recife Aluguel por temporada Direto com o dono,239.0,2024-05-21,2024-05-22
-Hotel das Fronteiras,160.0,2024-05-21,2024-05-22
-BHF》1107•Conforto e tranquilidade. Flat beira mar!,250.0,2024-05-21,2024-05-22
-Transamerica Fit Recife- Flat mobiliado,280.0,2024-05-21,2024-05-22
-Apartamento boa viagem,199.0,2024-05-21,2024-05-22
-Flat Golden Beach em Piedade,180.0,2024-05-21,2024-05-22
-FLAT COSTA MAR,170.0,2024-05-21,2024-05-22
-Flat Sorriso - Beach Class Conventions,319.0,2024-05-21,2024-05-22
-Nexos Motel Tamarineira (Adult Only),155.0,2024-05-21,2024-05-22
-Boa Viagem Flat,170.0,2024-05-21,2024-05-22
-Aconchegante apartamento para locação de diárias *NOVO*,161.0,2024-05-21,2024-05-22
-Duplex,108.0,2024-05-21,2024-05-22
-Rio Park Avenue Residence Piedade - By TRH Invest,269.0,2024-05-21,2024-05-22
-Melhor localização Recife até 8 pessoas,180.0,2024-05-21,2024-05-22
-Charme do Poço,160.0,2024-05-21,2024-05-22
-Flat Beira Mar Beach Class,271.0,2024-05-21,2024-05-22
-Studio Boa Viagem,126.0,2024-05-21,2024-05-22
-Studio 51 residence,97.0,2024-05-21,2024-05-22
-FLAT Praia Boa Viagem,435.0,2024-05-21,2024-05-22
-Albergue Cultural São Salomão,80.0,2024-05-21,2024-05-22
-Beach Class Boa Viagem - Apartamento em Hotel Transamerica 5 Estrelas Vista para o Mar,306.0,2024-05-21,2024-05-22
-Lindo Flat Hotel Costa Mar,144.0,2024-05-21,2024-05-22
-Espaço inteiro a beira mar,173.0,2024-05-21,2024-05-22
-Flat frente mar no Transamérica Beach Class International,308.0,2024-05-21,2024-05-22
-Hostel & Pousada UFPE INN,89.0,2024-05-21,2024-05-22
-Beach Class Executive Beira Mar,233.0,2024-05-21,2024-05-22
-Flat que acomoda até 4 pessoas Boa Viagem-Recife,220.0,2024-05-21,2024-05-22
-Lindo FLAT no melhor lugar de Candeias 50 m praia,206.0,2024-05-21,2024-05-22
-Recife Centro Apartamento,180.0,2024-05-21,2024-05-22
-Rio Park Ave Studio 4 - By TRH Invest,287.0,2024-05-21,2024-05-22
-Studio com varanda - Melhor localização do Arruda,192.0,2024-05-21,2024-05-22
-Bonito é ser Feliz,98.0,2024-05-21,2024-05-22
-Kitnet na Boa Vista Recife - 508,215.0,2024-05-21,2024-05-22
-Paiva Flats By Loui,176.0,2024-05-21,2024-05-22
-Flat a 100 metros da praia - Bairro de Boa Viagem,211.0,2024-05-21,2024-05-22
-Rede Andrade Navegantes,280.0,2024-05-21,2024-05-22
-Espaço do Bem Recife,150.0,2024-05-21,2024-05-22
-Flat Refugio! Vista deslumbrante! Frente-mar,172.0,2024-05-21,2024-05-22
-Flat Beira Mar Piedade,203.0,2024-05-21,2024-05-22
-Motel Estoril (Adult Only),160.0,2024-05-21,2024-05-22
-Paiva (Barra Home Stay) Luxuoso - vista incrível 26 andar,270.0,2024-05-21,2024-05-22
-Flat BV no Aparthotel Beach Class EXECUTIVE - Apto 507 - na Beira-Mar do Recife,208.0,2024-05-21,2024-05-22
-quintal293,180.0,2024-05-21,2024-05-22
-Estadia em Boa viagem Recife,212.0,2024-05-21,2024-05-22
-Bugan paiva,315.0,2024-05-21,2024-05-22
-flatpaivahome bugan paiva,245.0,2024-05-21,2024-05-22
-Apartamento três quartos no centro do Recife,122.0,2024-05-21,2024-05-22
-Piscina no Rooftop! Exclusivo ''Apartamento Compacto com Design Moderno e Infraestrutura Completa em Boa viagem - Estacionamento e Portaria 24h! Roupas de Cama Toalhas e mimos inclusos!'',529.0,2024-05-21,2024-05-22
-Quarto confortável em Boa viagem,97.0,2024-05-21,2024-05-22
-Flat super aconchegante!,187.0,2024-05-21,2024-05-22
-Pousada Flat Hotel em Casa Forte,169.0,2024-05-21,2024-05-22
-Gira Arte Hostel,110.0,2024-05-21,2024-05-22
-Flat Gildo Vilaça,239.0,2024-05-21,2024-05-22
-HY Beach Flats - International,308.0,2024-05-21,2024-05-22
-Piratas do Sol Hostel,52.0,2024-05-21,2024-05-22
-Flat Recife Av boa viagem- Beach Class Internacional,250.0,2024-05-21,2024-05-22
-Pousada Joãozinho Caminhador,70.0,2024-05-21,2024-05-22
-Lindo apartamento no melhor do Recife,410.0,2024-05-21,2024-05-22
-Apartamento tipo Flat em Boa viagem com serviços inclusos,138.0,2024-05-21,2024-05-22
-Fada Hotel - Motel Adults Only,142.0,2024-05-21,2024-05-22
-Residêncial primavera,72.0,2024-05-21,2024-05-22
-Ap próx shopping aeroporto,113.0,2024-05-21,2024-05-22
-Flat Boa Viagem luxo,203.0,2024-05-21,2024-05-22
-Puerto de Villas,225.0,2024-05-21,2024-05-22
-Flat em Boa Viagem apto 703 - Rooftop 470,225.0,2024-05-21,2024-05-22
-BOA VIAGEM FLAT 106,197.0,2024-05-21,2024-05-22
-Espaço jeito de casa.,108.0,2024-05-21,2024-05-22
-Flat Navegantes Residence - Mar,317.0,2024-05-21,2024-05-22
-Flat a beira mar,221.0,2024-05-21,2024-05-22
-Apartamento em Recife,135.0,2024-05-21,2024-05-22
-Flat em Boa Viagem Ótima Localização Próximo do Mar Apt 903,126.0,2024-05-21,2024-05-22
-Hospedagem Domiciliar - Ótima localização em Piedade,88.0,2024-05-21,2024-05-22
-Flat 505 Edf. Home Club Porto Mar,210.0,2024-05-21,2024-05-22
-FLAT EM BOA VIAGEM,180.0,2024-05-21,2024-05-22
-Flat vista mar Boa Viagem,183.0,2024-05-21,2024-05-22
-PAIVA HOME STAY 1908 A melhor vista de Pernambuco,240.0,2024-05-21,2024-05-22
-Casa com piscina aconchegante 300 m do mar,281.0,2024-05-21,2024-05-22
-Flat Mar Azul e Sol Dourado,184.0,2024-05-21,2024-05-22
-Marbelo Pernambuco Hostel,51.0,2024-05-21,2024-05-22
-FLAT LUXO BEIRA MAR 14 andar,221.0,2024-05-21,2024-05-22
-Pousada Solar do Lazer,41.0,2024-05-21,2024-05-22
-studio golden breeze boa viagem,187.0,2024-05-21,2024-05-22
-Flat Costa Mar,250.0,2024-05-21,2024-05-22
-Hosts BR - Estúdio em Boa Viagem(s/taxas),221.0,2024-05-21,2024-05-22
-Paiva Flat Home Stay - Barra de Jangada,207.0,2024-05-21,2024-05-22
-Bugan - Paiva Home Stay A&F,200.0,2024-05-21,2024-05-22
-Paiva Home Stay - Beira Mar - Flat,171.0,2024-05-21,2024-05-22
-Flat da barra,176.0,2024-05-21,2024-05-22
-Kitnet mobiliado Olinda,135.0,2024-05-21,2024-05-22
-Heliodoro Flat Golden Beach,173.0,2024-05-21,2024-05-22
-Mercure 1404 · Suíte moderna com vista p/ o mar,299.0,2024-05-21,2024-05-22
-Apartamento/Flat Boa Viagem,246.0,2024-05-21,2024-05-22
-BOA VIAGEM PROX AO MAR,204.0,2024-05-21,2024-05-22
-Quarto em Hotel Costa Mar!,159.0,2024-05-21,2024-05-22
-Apart Hotel Marinas Tamandaré,137.0,2024-05-21,2024-05-22
-Apartamento aconchegante no centro,104.0,2024-05-21,2024-05-22
-Flat em Recife a beira-mar de Boa Viagem,240.0,2024-05-21,2024-05-22
-Edifício Parque Shopping,230.0,2024-05-21,2024-05-22
-Apto 3 quartos Beira Mar Prox de Recife,138.0,2024-05-21,2024-05-22
-Pousada Solar do Lazer,41.0,2024-05-21,2024-05-22
-Apartamento próximo ao aeroporto e praia,122.0,2024-05-21,2024-05-22
-Apartamento aconchegante em Candeias,242.0,2024-05-21,2024-05-22
-Rhodes Hotel Recife,220.0,2024-05-21,2024-05-22
-Eclipse Motel,117.0,2024-05-21,2024-05-22
-Rio Park Ave Studio 2 - By TRH Invest,287.0,2024-05-21,2024-05-22
-Studio D'Roma em Boa Viagem,200.0,2024-05-21,2024-05-22
-Flat em Boa Viagem #506,192.0,2024-05-21,2024-05-22
-Hosts BR-Flat Fit Transamérica Boa Viagem s/ taxa,220.0,2024-05-21,2024-05-22
-Apartamento no Rosarinho,170.0,2024-05-21,2024-05-22
-Flat Golden Beach Recife,186.0,2024-05-21,2024-05-22
-Centro de convenções próx,150.0,2024-05-21,2024-05-22
-Mercure Navegantes Recife Hotel,346.0,2024-05-21,2024-05-22
-QUARTO ARCO-ÍRES-TRIPLO CONFORTO E PRIVACIDADE- Bairro do Espinheiro -RECIFE- PERNAMBUCO,103.0,2024-05-21,2024-05-22
-Loft Portal Beach,99.0,2024-05-21,2024-05-22
-Espaço rústico e aconchegante 1,91.0,2024-05-21,2024-05-22
-Hotel América Praia,162.0,2024-05-21,2024-05-22
-Pousada da Praia,170.0,2024-05-21,2024-05-22
-Barra Home stay 22 andar,203.0,2024-05-21,2024-05-22
-BARRA FLATS BY LOUI,168.0,2024-05-21,2024-05-22
-Paiva home stay,203.0,2024-05-21,2024-05-22
-Hy Beach Flats - Apartamento Luxo,322.0,2024-05-21,2024-05-22
-Flat no Mercure Navegantes,166.0,2024-05-21,2024-05-22
-Flat em Boa Viagem no Rooftop 470,134.0,2024-05-21,2024-05-22
-Apartamento na melhor localização de Recife,132.0,2024-05-21,2024-05-22
-Apartamento com Vista Deslumbrante à Beira Mar.,270.0,2024-05-21,2024-05-22
-Aconchego e Conveniência - Apartamento para 2pessoas a 2min da Praia de Boa viagem - 1 Quarto com Ar-Condicionado - Wi-Fi e Mobilia COMPLETA '' Localização Privilegiada com Custo-Beneficio Imbatível em Recife!'' -Promoção Exclusiva-,138.0,2024-05-21,2024-05-22
-Flat Super Luxo - Boa Viagem,229.0,2024-05-21,2024-05-22
-Kitnet na Boa Vista Recife - 1203,215.0,2024-05-21,2024-05-22
-Hosts BR - Frente Mar c/ cozinha,189.0,2024-05-21,2024-05-22
-Quarto INDISPONÍVEL NO PRESENTE,203.0,2024-05-21,2024-05-22
-Hosts BR - Flats Frente Mar c/ Cozinha,189.0,2024-05-21,2024-05-22
-Rio Park Ave Studio 9 - By TRH Invest,296.0,2024-05-21,2024-05-22
-Flat Pé-na-areia! Um refúgio a Beira-mar! Vista deslumbrante!,182.0,2024-05-21,2024-05-22
-hotel gold beach,260.0,2024-05-21,2024-05-22
-Flat Beach Class Recife,274.0,2024-05-21,2024-05-22
-Flat incrível 2 qtos Beach class conselheiro,274.0,2024-05-21,2024-05-22
-Kitnet 1 quarto com banheiro carnaval recife  condomínio fechado,203.0,2024-05-21,2024-05-22
-Kitnet com hidromassagem boa viagem,174.0,2024-05-21,2024-05-22
-HY Hotels,308.0,2024-05-21,2024-05-22
-Lindo apartamento em Recife,128.0,2024-05-21,2024-05-22
-Kitnet 1102 - Apartamento para temporada,215.0,2024-05-21,2024-05-22
-Flat 02 quartos em Boa Viagem 2 min a pé da praia,380.0,2024-05-21,2024-05-22
-Beach Class HÔM - by Tolull,339.0,2024-05-21,2024-05-22
-HY Beach Flats - Santa Maria,336.0,2024-05-21,2024-05-22
-Melhor local da zona norte Sem Taxas,400.0,2024-05-21,2024-05-22
-Acero'Lar,54.0,2024-05-21,2024-05-22
-Flat - Boa viagem- Recife - Poucos metros da praia,261.0,2024-05-21,2024-05-22
-Flora Pousada,342.0,2024-05-21,2024-05-22
-Bugan Paiva flatpaivahome,235.0,2024-05-21,2024-05-22
-Solar da Sereia,275.0,2024-05-21,2024-05-22
-Apartamento e Suítes Mobiliada Climatizada Campo Grande,235.0,2024-05-21,2024-05-22
-Apartamento Imperial perto de tudo e confortável.,144.0,2024-05-21,2024-05-22
-Apto a beira-mar em Jaboatao dos Guararapes PE,176.0,2024-05-21,2024-05-22
-Ótima Localização - Zona Norte - SEM TAXAS,400.0,2024-05-21,2024-05-22
-Apartamento Boa Viagem,429.0,2024-05-21,2024-05-22
-Apartamento rústico e aconchegante,120.0,2024-05-21,2024-05-22
-Cosmeflats,200.0,2024-05-21,2024-05-22
-Hostel Alvorada,76.0,2024-05-21,2024-05-22
-Hospede-se próximo ao Aeroporto Internacional dos Guararapes em Recife - Rua Esdras Farias  15B,180.0,2024-05-21,2024-05-22
-Kitnet recife carnaval 2024,225.0,2024-05-21,2024-05-22
-Flat 1 Quarto Carneiros Beach Resort,405.0,2024-05-21,2024-05-22
-Lindo apto à beira-mar Jaboatão dos Guararapes - PE,246.0,2024-05-21,2024-05-22
-BHF》3403 • Duplex super confortável!,360.0,2024-05-21,2024-05-22
-Flat Melhor vista de Carneiros,504.0,2024-05-21,2024-05-22
-Flats Beach Class Convention Prime,299.0,2024-05-21,2024-05-22
-Marbelo Pernambuco,259.0,2024-05-21,2024-05-22
-Apartamento 3qts em Boa Viagem,480.0,2024-05-21,2024-05-22
-Radisson Hotel ap 801,1.7,2024-05-21,2024-05-22
-Meu Cantinho,297.0,2024-05-21,2024-05-22
-Apto 3/4 Mobiliado em Recife Cond. CLUBE,800.0,2024-05-21,2024-05-22
-Apartamento ao lado da UFPE,200.0,2024-05-21,2024-05-22
-Hostel da Socorro,405.0,2024-05-21,2024-05-22
-Apt candeias,207.0,2024-05-21,2024-05-22
-Lindo flat em Barra de Jangada (apto 1805),225.0,2024-05-21,2024-05-22
-Bugan Paiva/ Home stay,208.0,2024-05-21,2024-05-22
-Flat boa viagem 1,567.0,2024-05-21,2024-05-22
-Flat em Boa Viagem,800.0,2024-05-21,2024-05-22
-Apê a 100m do Mar,430.0,2024-05-21,2024-05-22
-Casa no coração de Recife para Carnaval,300.0,2024-05-21,2024-05-22
-Flats Rosarinho Prince Prime,499.0,2024-05-21,2024-05-22
-Cobertura no Pina,314.0,2024-05-21,2024-05-22
-Conforto e Localização,324.0,2024-05-21,2024-05-22
-flat apt mobiliado beira mar,400.0,2024-05-21,2024-05-22
-Casa poucos metros do mar Cabo de Sto Agostinho,372.0,2024-05-21,2024-05-22
-Aconchego Boa Viagem,576.0,2024-05-21,2024-05-22
-Apto Carnaval 2024 Ed Camilla,800.0,2024-05-21,2024-05-22
-Apartamento Beira Mar em Recife,1.35,2024-05-21,2024-05-22
-Flat Beira Mar,2.0,2024-05-21,2024-05-22
-apartamento,1.35,2024-05-21,2024-05-22
-Bangalô luxo à beira MAR em Porto de Galinhas (Cupe),1.625,2024-05-21,2024-05-22
-Apduplex,2.025,2024-05-21,2024-05-22
+Hotel,Cidade,Preço,Checkin,Checkout,Dist_centro,Dist_praia,Avaliacao,Data_extracao
+Veja o mar no silêncio do centro! Hospede-se no quarto,Recife,428,2025-01-01,2025-01-08,0.2,2.5,8.3,2024-5-16
+Hotel Dan Inn Mar Piedade - Grande Recife,Recife,2101,2025-01-01,2025-01-08,13.7,0.0,7.8,2024-5-16
+Villa d'Oro Hotel,Recife,2136,2025-01-01,2025-01-08,1.4,2.9,8.6,2024-5-16
+Lindo APT Cinza à 50m do mar - Praia de Boa Viagem,Recife,1017,2025-01-01,2025-01-08,5.8,None,10.0,2024-5-16
+Aconchegante Apto de 1qt a 60mts do Consulado EUA,Recife,1011,2025-01-01,2025-01-08,1.2,None,9.7,2024-5-16
+ibis Recife Boa Viagem,Recife,2048,2025-01-01,2025-01-08,4.4,0.35,8.0,2024-5-16
+APARTAMENTO PROXIMO À UFPE,Recife,964,2025-01-01,2025-01-08,8.4,None,9.1,2024-5-16
+Rede Andrade LG Inn,Recife,1827,2025-01-01,2025-01-08,6.8,0.25,7.7,2024-5-16
+Hotel Golden Park Recife Boa Viagem,Recife,2632,2025-01-01,2025-01-08,9.3,0.0,7.5,2024-5-16
+Rede Andrade Plaza Recife,Recife,1670,2025-01-01,2025-01-08,0.6,3.0,7.0,2024-5-16
+Hotel Enseada Boa Viagem,Recife,1863,2025-01-01,2025-01-08,8.6,0.6,7.5,2024-5-16
+Radisson Recife,Recife,4998,2025-01-01,2025-01-08,5.7,0.0,8.8,2024-5-16
+Oxen Hostel 2024,Recife,226,2025-01-01,2025-01-08,0.45,None,6.0,2024-5-16
+Marante Plaza Hotel,Recife,2800,2025-01-01,2025-01-08,5.0,0.0,8.3,2024-5-16
+Dublê Hotel - The Original,Recife,2176,2025-01-01,2025-01-08,6.5,0.15,7.7,2024-5-16
+'"Apartamento EXCLUSIVO - Novo com 2 Quartos Climatizados Suíte Varanda Piscina e Academia - Vaga na garagem TV de 70'' Localização Premium ao Lado do Shopping Rio Mar - Inclui Enxoval Completo e Mimos!'",Recife,1615,2025-01-01,2025-01-08,3.5,1.0,9.9,2024-5-16
+Studio com varanda - Melhor localização do Arruda,Recife,682,2025-01-01,2025-01-08,3.6,None,9.0,2024-5-16
+Lê'Frevo Pernambucano Hostel,Recife,298,2025-01-01,2025-01-08,0.6,3.0,7.5,2024-5-16
+Hotel Atlante Plaza,Recife,4347,2025-01-01,2025-01-08,9.2,0.0,8.8,2024-5-16
+Rede Andrade Onda Mar,Recife,1575,2025-01-01,2025-01-08,7.8,0.3,7.0,2024-5-16
+BOA VIAGEM - FLAT ROOFTOP ALTO PADRÃO,Recife,2142,2025-01-01,2025-01-08,6.4,0.55,9.8,2024-5-16
+Hotel Enseada Aeroporto,Recife,1565,2025-01-01,2025-01-08,9.7,0.75,7.5,2024-5-16
+Lindo APT Azul a 50 metros do mar - Praia de Boa Viagem,Recife,1004,2025-01-01,2025-01-08,5.8,None,10.0,2024-5-16
+Costa Mar Recife Hotel by Atlantica,Recife,3005,2025-01-01,2025-01-08,13.6,0.0,7.5,2024-5-16
+Hotel Jangadeiro,Recife,3374,2025-01-01,2025-01-08,6.9,0.5,7.8,2024-5-16
+Mercure Recife Navegantes,Recife,2438,2025-01-01,2025-01-08,7.0,0.1,7.2,2024-5-16
+Park Hotel,Recife,2684,2025-01-01,2025-01-08,8.6,0.1,8.5,2024-5-16
+Qto Duplo próximo ao Shopping Recife,Recife,625,2025-01-01,2025-01-08,8.1,None,10.0,2024-5-16
+Hotel Nacional Inn Recife Aeroporto,Recife,2306,2025-01-01,2025-01-08,8.0,1.2,7.1,2024-5-16
+Bonito é ser Feliz,Recife,757,2025-01-01,2025-01-08,4.8,None,9.7,2024-5-16
+Apartamento boa viagem,Recife,1314,2025-01-01,2025-01-08,5.2,None,None,2024-5-16
+Hotel Euro Suíte Recife Boa Viagem,Recife,3814,2025-01-01,2025-01-08,8.1,0.5,7.8,2024-5-16
+SUITE e QUARTOS -1 SUITE COM BANHEIRO PRIVATIVO - 2 QUARTOS DUPLOS COM BANHEIRO COMPARTILHADO,Recife,1410,2025-01-01,2025-01-08,3.4,None,9.3,2024-5-16
+Duplex,Recife,714,2025-01-01,2025-01-08,0.7,None,None,2024-5-16
+Bugan Recife Boa Viagem Hotel - by Atlantica,Recife,5340,2025-01-01,2025-01-08,8.3,0.35,9.1,2024-5-16
+Transamerica Prestige Recife - Boa Viagem,Recife,3707,2025-01-01,2025-01-08,4.3,0.0,8.4,2024-5-16
+Lindo Apartamento com piscina - Beira Mar,Recife,1750,2025-01-01,2025-01-08,5.7,0.0,8.9,2024-5-16
+Apartamentos a 2 min. da Praia localização exclusiva,Recife,1761,2025-01-01,2025-01-08,5.8,0.25,9.1,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM802,Recife,1708,2025-01-01,2025-01-08,9.6,0.4,9.2,2024-5-16
+Beira-mar Boa Viagem - Costa Vicentina by Bnb Flex,Recife,1960,2025-01-01,2025-01-08,10.2,0.5,8.6,2024-5-16
+Fity Hotel,Recife,3931,2025-01-01,2025-01-08,7.3,0.25,8.7,2024-5-16
+Apart Hotel Beach Class HÔM - 1902,Recife,1693,2025-01-01,2025-01-08,6.6,None,10.0,2024-5-16
+AMPLA e CONFORTÁVEL SUITE - BAIRRO DO ESPINHEIRO - RECIFE,Recife,2183,2025-01-01,2025-01-08,1.6,None,9.6,2024-5-16
+Hotel Fit transamérica,Recife,1604,2025-01-01,2025-01-08,7.0,None,10.0,2024-5-16
+Flat Recife - Boa Viagem,Recife,2767,2025-01-01,2025-01-08,7.0,0.0,8.2,2024-5-16
+Espaço inteiro a beira mar,Recife,1142,2025-01-01,2025-01-08,7.0,None,None,2024-5-16
+Stay Residence - CASA COMPARTILHADA,Recife,504,2025-01-01,2025-01-08,1.0,None,6.7,2024-5-16
+Flat Novo e Moderno a 200m do Shopping  com Piscina wifii 500mbps,Recife,3040,2025-01-01,2025-01-08,7.9,1.1,9.8,2024-5-16
+Flat - Boa Viagem para até 5 pessoas andar ALTO vista Mar Piscina Wifi 500Mbps,Recife,2795,2025-01-01,2025-01-08,6.2,0.8,9.8,2024-5-16
+Mar Hotel Conventions,Recife,3621,2025-01-01,2025-01-08,8.7,0.5,8.6,2024-5-16
+Conforto e praticidade em Boa Viagem.,Recife,2199,2025-01-01,2025-01-08,7.9,1.1,9.1,2024-5-16
+Flat do lado Shopping Boa Vista,Recife,809,2025-01-01,2025-01-08,0.7,None,1.0,2024-5-16
+Pousada Nordestina,Recife,1260,2025-01-01,2025-01-08,14.1,0.2,7.4,2024-5-16
+Espaço rústico e aconchegante 1,Recife,600,2025-01-01,2025-01-08,3.2,None,None,2024-5-16
+Flat para 4 pessoas em Boa Viagem com Piscina Wifi 500Mbps localizado a 350 metros da Praia,Recife,2894,2025-01-01,2025-01-08,6.5,0.0,9.5,2024-5-16
+Hostel Brasil Recife,Recife,347,2025-01-01,2025-01-08,7.5,None,9.0,2024-5-16
+Rede Andrade Vela Branca,Recife,1563,2025-01-01,2025-01-08,8.3,0.35,6.6,2024-5-16
+Pousada Solar do Lazer,Recife,268,2025-01-01,2025-01-08,0.5,None,None,2024-5-16
+Loft Portal Beach,Recife,714,2025-01-01,2025-01-08,3.6,0.25,6.5,2024-5-16
+Studio Portal dos Corais apartamento 1003,Recife,11332,2025-01-01,2025-01-08,5.6,0.1,8.4,2024-5-16
+Rooftop 470 - Novíssimo Flat Boa Viagem,Recife,2690,2025-01-01,2025-01-08,6.4,0.55,9.9,2024-5-16
+Flat mobiliado na rua da Aurora,Recife,900,2025-01-01,2025-01-08,0.45,None,6.5,2024-5-16
+quintal293,Recife,1260,2025-01-01,2025-01-08,0.4,2.2,9.9,2024-5-16
+Beira-Mar Boa Viagem - Ivone Asfora by Bnb Flex,Recife,2160,2025-01-01,2025-01-08,9.5,0.5,8.6,2024-5-16
+Perto do Chevrolet Hall,Recife,714,2025-01-01,2025-01-08,3.3,None,10.0,2024-5-16
+Hotel das Fronteiras,Recife,1120,2025-01-01,2025-01-08,1.7,None,4.6,2024-5-16
+BEIRA MAR- FLAT EXECUTIVE,Recife,2907,2025-01-01,2025-01-08,4.2,0.0,9.3,2024-5-16
+O melhor e mais completo de boa viagem,Recife,1480,2025-01-01,2025-01-08,7.3,0.25,8.9,2024-5-16
+Aram Beach Boa Viagem,Recife,3031,2025-01-01,2025-01-08,8.2,0.1,7.6,2024-5-16
+Casa perto do Centro de Convenções,Recife,762,2025-01-01,2025-01-08,3.3,None,None,2024-5-16
+Edifício Califórnia,Recife,704,2025-01-01,2025-01-08,5.4,None,None,2024-5-16
+Aurora Recife Hostel,Recife,1176,2025-01-01,2025-01-08,1.1,None,None,2024-5-16
+Studio 51 residence,Recife,862,2025-01-01,2025-01-08,15.5,0.1,7.8,2024-5-16
+HY Apartments & Hotels,Recife,5141,2025-01-01,2025-01-08,4.3,0.0,8.0,2024-5-16
+Nobile Residences Maria Frazão,Recife,3195,2025-01-01,2025-01-08,10.2,0.0,9.3,2024-5-16
+VISTA MAR BOA VIAGEM - BEACH CLASS EXECUTIVE,Recife,2680,2025-01-01,2025-01-08,4.2,0.0,9.6,2024-5-16
+Moradia dos sonhos 30 m da praia,Recife,1180,2025-01-01,2025-01-08,7.9,None,None,2024-5-16
+Apt aconchegante e central,Recife,643,2025-01-01,2025-01-08,1.4,None,None,2024-5-16
+Flat Beach Class Executive,Recife,3330,2025-01-01,2025-01-08,4.3,0.0,7.9,2024-5-16
+Excelente Flat em Boa Viagem 2 quartos Beach Class Ideal para Família ou Viagens de Negócio NOB1804,Recife,2730,2025-01-01,2025-01-08,6.6,0.8,9.5,2024-5-16
+Hospede-se próximo ao Aeroporto Internacional dos Guararapes em Recife - Rua Esdras Farias  15B,Recife,536,2025-01-01,2025-01-08,7.0,None,10.0,2024-5-16
+Lindo apartamento no melhor do Recife,Recife,2249,2025-01-01,2025-01-08,3.5,0.9,9.8,2024-5-16
+Flat Quarto e Sala 400 metros da Praia de Boa Viagem com Piscina Wi-Fi 220Mbps,Recife,2913,2025-01-01,2025-01-08,6.2,0.0,8.4,2024-5-16
+ibis Recife Aeroporto,Recife,2129,2025-01-01,2025-01-08,9.2,1.6,8.3,2024-5-16
+BlubellaRecife,Recife,1142,2025-01-01,2025-01-08,7.7,None,None,2024-5-16
+Flats de Luxo by BnbFlex - Costa Vicentina,Recife,2369,2025-01-01,2025-01-08,10.2,0.1,8.6,2024-5-16
+Flat/Boa Viagem - Wi-Fi 400mbps,Recife,2111,2025-01-01,2025-01-08,6.2,0.85,9.8,2024-5-16
+Pousada Praia Boa Viagem,Recife,2050,2025-01-01,2025-01-08,8.5,0.15,8.0,2024-5-16
+Eclipse Motel,Recife,774,2025-01-01,2025-01-08,6.5,None,6.1,2024-5-16
+Beach Class Boa Viagem - Apartamento em Hotel Transamerica 5 Estrelas Vista para o Mar,Recife,2159,2025-01-01,2025-01-08,4.3,None,None,2024-5-16
+STAY POUSADA,Recife,864,2025-01-01,2025-01-08,1.4,None,6.9,2024-5-16
+Flat Beira Mar Recife - Praia de Piedade,Recife,5200,2025-01-01,2025-01-08,12.5,0.0,9.1,2024-5-16
+Flat no Mercure Navegantes,Recife,1097,2025-01-01,2025-01-08,7.0,None,None,2024-5-16
+Apart hotel c WiFi prox a Praia de Boa Viagem PE,Recife,6920,2025-01-01,2025-01-08,6.6,0.55,8.1,2024-5-16
+QUARTO ARCO-ÍRES-TRIPLO CONFORTO E PRIVACIDADE- Bairro do Espinheiro -RECIFE- PERNAMBUCO,Recife,1034,2025-01-01,2025-01-08,1.9,None,None,2024-5-16
+Paiva home stay,Recife,1339,2025-01-01,2025-01-08,18.9,None,None,2024-5-16
+Aconchegante Flat na Orla,Recife,1758,2025-01-01,2025-01-08,14.2,0.0,8.0,2024-5-16
+Flat localizado a 200m Shopping Recife bem Perto da Praia de Boa Viagem e com Wi-Fi 400Mbps,Recife,2901,2025-01-01,2025-01-08,7.8,0.9,9.1,2024-5-16
+Acero'Lar,Recife,357,2025-01-01,2025-01-08,0.5,2.9,1.0,2024-5-16
+Flet boa viagem,Recife,1190,2025-01-01,2025-01-08,9.3,0.1,1.0,2024-5-16
+Apt 2 quartos com varanda próximo Praça Casa Forte o bairro mais agradável do Recife ARN901,Recife,1757,2025-01-01,2025-01-08,5.2,None,9.3,2024-5-16
+Apartamento de 2 quartos,Recife,1960,2025-01-01,2025-01-08,3.1,None,9.8,2024-5-16
+Cantinho especial de Piedade,Recife,1130,2025-01-01,2025-01-08,15.6,0.95,10.0,2024-5-16
+Lindo apartamento em Recife,Recife,1017,2025-01-01,2025-01-08,3.6,None,1.0,2024-5-16
+Requinte e sofisticação ao lado Jardim Botânico,Recife,1260,2025-01-01,2025-01-08,10.2,None,7.0,2024-5-16
+Marbelo Pernambuco Hostel,Recife,1637,2025-01-01,2025-01-08,0.4,2.8,8.5,2024-5-16
+Apartamento e Suítes Mobiliada Climatizada Campo Grande,Recife,1553,2025-01-01,2025-01-08,2.6,1.4,9.0,2024-5-16
+Conforto e Estilo no Beach Class Santa Maria,Recife,2660,2025-01-01,2025-01-08,6.3,0.6,7.4,2024-5-16
+Aconchego e Conveniência - Apartamento para 2pessoas a 2min da Praia de Boa viagem - 1 Quarto com Ar-Condicionado - Wi-Fi e Mobilia COMPLETA '' Localização Privilegiada com Custo-Beneficio Imbatível em Recife!'' -Promoção Exclusiva-,Recife,1687,2025-01-01,2025-01-08,5.8,0.25,8.2,2024-5-16
+Kitnet 1 quarto com banheiro carnaval recife  condomínio fechado,Recife,1339,2025-01-01,2025-01-08,6.3,2.7,None,2024-5-16
+Charmoso e Aconchegante,Recife,2680,2025-01-01,2025-01-08,7.3,0.5,9.5,2024-5-16
+Flats Mobiliados Zona Norte Casa forte recife Aluguel por temporada Direto com o dono,Recife,1603,2025-01-01,2025-01-08,3.6,None,8.0,2024-5-16
+Hostel solar do lazer,Recife,274,2025-01-01,2025-01-08,0.5,None,None,2024-5-16
+Flat Beira Mar Beach Class,Recife,2890,2025-01-01,2025-01-08,4.3,0.1,6.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1703,Recife,1533,2025-01-01,2025-01-08,1.7,None,8.7,2024-5-16
+Pousada Solar do Lazer,Recife,274,2025-01-01,2025-01-08,0.5,None,None,2024-5-16
+Seu lar no melhor de Recife - Boa Viagem.,Recife,1764,2025-01-01,2025-01-08,8.5,1.1,None,2024-5-16
+Ótimo Apt de 1qt a 60mts do Consulado EUA,Recife,1546,2025-01-01,2025-01-08,1.2,None,None,2024-5-16
+Kitnet com hidromassagem boa viagem,Recife,1151,2025-01-01,2025-01-08,6.1,2.7,3.0,2024-5-16
+Flat Boa Viagem,Recife,2173,2025-01-01,2025-01-08,9.3,0.1,9.5,2024-5-16
+Sossego com excelente localização em Boa Viagem,Recife,2762,2025-01-01,2025-01-08,6.3,0.9,8.2,2024-5-16
+Flora Pousada,Recife,2035,2025-01-01,2025-01-08,0.45,2.9,None,2024-5-16
+Melhor local da zona norte Sem Taxas,Recife,2190,2025-01-01,2025-01-08,3.3,None,9.2,2024-5-16
+Ótimo Flat Bairro da Jaqueira Recife até 3 pessoas O Bairro mais Verde da Cidade PBO902,Recife,1876,2025-01-01,2025-01-08,3.3,None,7.5,2024-5-16
+Vista EXPLENDIDA MAR duplex na cobertura ilha do amor Barra Home Stay,Recife,2848,2025-01-01,2025-01-08,19.5,0.65,None,2024-5-16
+Apartamento Jussara Freitas 2 quartos,Recife,3780,2025-01-01,2025-01-08,10.0,0.0,9.7,2024-5-16
+Flat na Praia em HOTEL DE LUXO (1001),Recife,3145,2025-01-01,2025-01-08,4.3,0.15,10.0,2024-5-16
+Kitnet recife carnaval 2024,Recife,1487,2025-01-01,2025-01-08,6.3,2.7,4.0,2024-5-16
+Goldenland Home Service,Recife,2829,2025-01-01,2025-01-08,6.8,0.7,8.3,2024-5-16
+APTO mobiliado Candeias JBO/PE,Recife,619,2025-01-01,2025-01-08,18.1,1.2,8.0,2024-5-16
+Conforto e Localização,Recife,2142,2025-01-01,2025-01-08,8.9,None,4.0,2024-5-16
+Edf: rubi,Recife,2678,2025-01-01,2025-01-08,1.5,None,10.0,2024-5-16
+Transamerica Fit Recife- Flat mobiliado,Recife,2800,2025-01-01,2025-01-08,7.0,None,9.0,2024-5-16
+Meu Cantinho,Recife,2079,2025-01-01,2025-01-08,5.1,None,4.0,2024-5-16
+Marbelo Pernambuco,Recife,1714,2025-01-01,2025-01-08,0.4,2.8,4.5,2024-5-16
+Flat Super Luxo - Boa Viagem,Recife,3010,2025-01-01,2025-01-08,6.4,0.55,None,2024-5-16
+Apartamento 2 quartos 1km da Praia,Recife,3094,2025-01-01,2025-01-08,6.4,1.5,10.0,2024-5-16
+Apartamento rústico e aconchegante,Recife,910,2025-01-01,2025-01-08,3.2,None,None,2024-5-16
+Paiva Home Stay - Bugan Paiva by Flatbpaiva,Recife,4675,2025-01-01,2025-01-08,19.6,0.0,8.5,2024-5-16
+Apt candeias,Recife,1714,2025-01-01,2025-01-08,16.7,0.55,None,2024-5-16
+Flat em Boa Viagem 100% Equipado,Recife,6460,2025-01-01,2025-01-08,6.4,0.55,9.9,2024-5-16
+Casa no coração de Recife para Carnaval,Recife,2800,2025-01-01,2025-01-08,1.0,2.8,10.0,2024-5-16
+FLATS ROSARINHO PRINCE SPRING,Recife,3318,2025-01-01,2025-01-08,3.1,None,1.0,2024-5-16
+Flat 1203 BEIRA MAR no Barra Classic,Recife,3268,2025-01-01,2025-01-08,19.4,0.0,9.6,2024-5-16
+FLAT IMPERIAL SUITES Boa Viagem,Recife,1951,2025-01-01,2025-01-08,7.2,None,None,2024-5-16
+Lindo Apartamento Av. Boa Viagem. 2Qts. Cozinha completa,Recife,3479,2025-01-01,2025-01-08,4.0,0.1,10.0,2024-5-16
+Flat em Boa Viagem Rooftop 470 Conforto e Localização privilegiada,Recife,6156,2025-01-01,2025-01-08,6.4,0.55,9.4,2024-5-16
+Flet dona anesia,Recife,4284,2025-01-01,2025-01-08,9.3,0.1,None,2024-5-16
+Apartamento aconchegante em Candeias,Recife,4165,2025-01-01,2025-01-08,16.8,0.0,9.7,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-01,2025-01-08,9.9,0.8,None,2024-5-16
+Apart Hotel Marinas Tamandaré,Recife,958,2025-01-01,2025-01-08,4.8,None,1.0,2024-5-16
+Paiva Home Stay Aptº temporada,Recife,3920,2025-01-01,2025-01-08,14.9,0.0,7.9,2024-5-16
+EDF: RUBI 184,Recife,4123,2025-01-01,2025-01-08,1.5,None,8.0,2024-5-16
+Flat boa viagem 1,Recife,3749,2025-01-01,2025-01-08,7.8,0.65,7.0,2024-5-16
+Studio D'Roma em Boa Viagem,Recife,3780,2025-01-01,2025-01-08,7.7,0.6,8.5,2024-5-16
+Seu lugar no Carnaval do Recife!,Recife,4788,2025-01-01,2025-01-08,0.45,2.1,None,2024-5-16
+Radisson Hotel ap 801,Recife,10115,2025-01-01,2025-01-08,5.7,0.15,None,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-01,2025-01-08,9.9,0.8,None,2024-5-16
+Edf: RUBI,Recife,4284,2025-01-01,2025-01-08,1.5,None,None,2024-5-16
+CASA COMPACTA NO PRIVÊ COQUEIRAL COM GARAGEM,Recife,3570,2025-01-01,2025-01-08,17.4,1.1,None,2024-5-16
+Apto Carnaval 2024 Ed Camilla,Recife,5600,2025-01-01,2025-01-08,4.8,None,None,2024-5-16
+Flat Beira Mar,Recife,14000,2025-01-01,2025-01-08,4.1,0.0,None,2024-5-16
+BV Paradiso,Recife,10064,2025-01-01,2025-01-08,5.6,0.0,10.0,2024-5-16
+FLAT MARULHOS MURO ALTO 02 Estr Ac p Praia de Muro Alto e Camboa,Recife,8840,2025-01-01,2025-01-08,43.7,0.0,None,2024-5-16
+Apto 3/4 Mobiliado em Recife Cond. CLUBE,Recife,10200,2025-01-01,2025-01-08,6.5,1.8,None,2024-5-16
+apartamento,Recife,8033,2025-01-01,2025-01-08,10.1,None,None,2024-5-16
+Apartamento Beira Mar em Recife,Recife,13650,2025-01-01,2025-01-08,14.1,0.5,None,2024-5-16
+Apduplex,Recife,13388,2025-01-01,2025-01-08,8.5,0.15,None,2024-5-16
+Pousada Joãozinho Caminhador,Recife,1260,2025-01-01,2025-01-08,11.6,0.25,6.0,2024-5-16
+Flat Paiva Home Stay,Recife,1943,2025-01-01,2025-01-08,18.9,0.0,7.3,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1401,Recife,1533,2025-01-01,2025-01-08,1.7,None,7.7,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1603,Recife,1533,2025-01-01,2025-01-08,1.7,None,7.5,2024-5-16
+Apartamento Alice Tenório,Recife,2170,2025-01-01,2025-01-08,6.1,0.4,9.5,2024-5-16
+Flat incrível 2 qtos Beach class conselheiro,Recife,1915,2025-01-01,2025-01-08,7.7,0.25,None,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM805,Recife,1918,2025-01-01,2025-01-08,9.6,0.4,8.6,2024-5-16
+Quarto INDISPONÍVEL NO PRESENTE,Recife,1418,2025-01-01,2025-01-08,4.5,0.15,1.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1205,Recife,1533,2025-01-01,2025-01-08,1.7,None,6.8,2024-5-16
+Apartamento/Flat Boa Viagem,Recife,2924,2025-01-01,2025-01-08,6.8,0.0,9.4,2024-5-16
+flatpaivahome bugan paiva,Recife,2597,2025-01-01,2025-01-08,19.6,0.7,None,2024-5-16
+Apartamento suite na Avenida BoaViagem,Recife,3154,2025-01-01,2025-01-08,4.3,0.5,9.8,2024-5-16
+Bugan Paiva flatpaivahome,Recife,2088,2025-01-01,2025-01-08,19.6,0.75,8.0,2024-5-16
+Pousada Flat Hotel em Casa Forte,Recife,3175,2025-01-01,2025-01-08,4.4,None,8.0,2024-5-16
+Mercure Navegantes Recife Hotel,Recife,2419,2025-01-01,2025-01-08,7.0,None,None,2024-5-16
+Excelente 3 Quartos Rua Navegantes em Boa Viagem No melhor local da praia SAL802,Recife,4489,2025-01-01,2025-01-08,6.1,0.15,9.1,2024-5-16
+Cosmeflats,Recife,2100,2025-01-01,2025-01-08,19.6,0.75,4.4,2024-5-16
+flat apt mobiliado beira mar,Recife,2950,2025-01-01,2025-01-08,14.3,0.0,6.8,2024-5-16
+apto na quadra do mar,Recife,3330,2025-01-01,2025-01-08,14.5,0.25,8.0,2024-5-16
+Apt novíssimo Tamarineira,Recife,3915,2025-01-01,2025-01-08,4.1,None,10.0,2024-5-16
+Flat no melhor lugar de boa viagem,Recife,4543,2025-01-01,2025-01-08,4.5,0.2,10.0,2024-5-16
+Hostel da Socorro,Recife,2835,2025-01-01,2025-01-08,9.0,0.9,1.0,2024-5-16
+Apto a beira-mar em Jaboatao dos Guararapes PE,Recife,4228,2025-01-01,2025-01-08,19.4,0.6,9.0,2024-5-16
+Aconchego Boa Viagem,Recife,4032,2025-01-01,2025-01-08,8.4,None,None,2024-5-16
+Incrivel apto em frente a Praia de Piedade PE,Recife,4713,2025-01-01,2025-01-08,13.2,0.0,6.0,2024-5-16
+Golden home service,Recife,7013,2025-01-01,2025-01-08,7.0,0.6,10.0,2024-5-16
+Lindo apto à beira-mar Jaboatão dos Guararapes - PE,Recife,5908,2025-01-01,2025-01-08,16.6,0.5,7.0,2024-5-16
+Cond Clube em Piedade noCarnaval,Recife,11246,2025-01-01,2025-01-08,15.7,1.0,None,2024-5-16
+RESERVA DO PAIVA - A MELHOR CASA PARA TEMPORADA,Recife,20173,2025-01-01,2025-01-08,26.6,0.0,8.4,2024-5-16
+Veja o mar no silêncio do centro! Hospede-se no quarto,Recife,428,2025-01-08,2025-01-15,0.2,2.5,8.3,2024-5-16
+Lindo APT Azul a 50 metros do mar - Praia de Boa Viagem,Recife,750,2025-01-08,2025-01-15,5.8,None,10.0,2024-5-16
+Lindo APT Cinza à 50m do mar - Praia de Boa Viagem,Recife,838,2025-01-08,2025-01-15,5.8,None,10.0,2024-5-16
+Villa d'Oro Hotel,Recife,1709,2025-01-08,2025-01-15,1.4,2.9,8.6,2024-5-16
+Hotel Dan Inn Mar Piedade - Grande Recife,Recife,2101,2025-01-08,2025-01-15,13.7,0.0,7.8,2024-5-16
+Dublê Hotel - The Original,Recife,1870,2025-01-08,2025-01-15,6.5,0.15,7.7,2024-5-16
+'"Apartamento EXCLUSIVO - Novo com 2 Quartos Climatizados Suíte Varanda Piscina e Academia - Vaga na garagem TV de 70'' Localização Premium ao Lado do Shopping Rio Mar - Inclui Enxoval Completo e Mimos!'",Recife,1245,2025-01-08,2025-01-15,3.5,1.0,9.9,2024-5-16
+Aconchegante Apto de 1qt a 60mts do Consulado EUA,Recife,1011,2025-01-08,2025-01-15,1.2,None,9.7,2024-5-16
+ibis Recife Boa Viagem,Recife,2048,2025-01-08,2025-01-15,4.4,0.35,8.0,2024-5-16
+Transamerica Fit Recife,Recife,2426,2025-01-08,2025-01-15,7.0,0.65,8.2,2024-5-16
+Rede Andrade LG Inn,Recife,1827,2025-01-08,2025-01-15,6.8,0.25,7.7,2024-5-16
+Kastel Manibu Recife - Boa Viagem,Recife,2911,2025-01-08,2025-01-15,4.7,0.25,8.4,2024-5-16
+Rede Andrade Plaza Recife,Recife,1670,2025-01-08,2025-01-15,0.6,3.0,7.0,2024-5-16
+Radisson Recife,Recife,4998,2025-01-08,2025-01-15,5.7,0.0,8.8,2024-5-16
+Hotel Enseada Boa Viagem,Recife,1863,2025-01-08,2025-01-15,8.6,0.6,7.5,2024-5-16
+Oxen Hostel 2024,Recife,226,2025-01-08,2025-01-15,0.45,None,6.0,2024-5-16
+Marante Plaza Hotel,Recife,2800,2025-01-08,2025-01-15,5.0,0.0,8.3,2024-5-16
+APARTAMENTO PROXIMO À UFPE,Recife,964,2025-01-08,2025-01-15,8.4,None,9.1,2024-5-16
+Ramon Hostel Bar,Recife,380,2025-01-08,2025-01-15,8.5,0.45,7.8,2024-5-16
+APARTAMENTO à 50 m do MAR - Praia de BOA VIAGEM,Recife,939,2025-01-08,2025-01-15,5.8,0.25,8.8,2024-5-16
+AMPLA e CONFORTÁVEL SUITE - BAIRRO DO ESPINHEIRO - RECIFE,Recife,1273,2025-01-08,2025-01-15,1.6,None,9.6,2024-5-16
+Apartamentos a 2 min. da Praia localização exclusiva,Recife,1180,2025-01-08,2025-01-15,5.8,0.25,9.1,2024-5-16
+Hotel Atlante Plaza,Recife,4136,2025-01-08,2025-01-15,9.2,0.0,8.8,2024-5-16
+Lê'Frevo Pernambucano Hostel,Recife,298,2025-01-08,2025-01-15,0.6,3.0,7.5,2024-5-16
+Studio com varanda - Melhor localização do Arruda,Recife,682,2025-01-08,2025-01-15,3.6,None,9.0,2024-5-16
+BOA VIAGEM - FLAT ROOFTOP ALTO PADRÃO,Recife,2142,2025-01-08,2025-01-15,6.4,0.55,9.8,2024-5-16
+Costa Mar Recife Hotel by Atlantica,Recife,2778,2025-01-08,2025-01-15,13.6,0.0,7.5,2024-5-16
+Fity Hotel,Recife,2737,2025-01-08,2025-01-15,7.3,0.25,8.7,2024-5-16
+Rede Andrade Onda Mar,Recife,1575,2025-01-08,2025-01-15,7.8,0.3,7.0,2024-5-16
+Duplex,Recife,714,2025-01-08,2025-01-15,0.7,None,9.5,2024-5-16
+Beira-mar Boa Viagem - Costa Vicentina by Bnb Flex,Recife,1625,2025-01-08,2025-01-15,10.2,0.5,8.6,2024-5-16
+Hotel Enseada Aeroporto,Recife,1565,2025-01-08,2025-01-15,9.7,0.75,7.5,2024-5-16
+Grand Mercure Recife Boa Viagem,Recife,3164,2025-01-08,2025-01-15,7.8,0.0,7.8,2024-5-16
+Rooftop 470 - Novíssimo Flat Boa Viagem,Recife,2318,2025-01-08,2025-01-15,6.4,0.55,9.9,2024-5-16
+Mercure Recife Navegantes,Recife,2249,2025-01-08,2025-01-15,7.0,0.1,7.2,2024-5-16
+Transamerica Prestige Recife - Boa Viagem,Recife,3249,2025-01-08,2025-01-15,4.3,0.0,8.4,2024-5-16
+BEIRA MAR- FLAT EXECUTIVE,Recife,2424,2025-01-08,2025-01-15,4.2,0.0,9.3,2024-5-16
+Hotel Jangadeiro,Recife,3374,2025-01-08,2025-01-15,6.9,0.5,7.8,2024-5-16
+Hotel Golden Park Recife Boa Viagem,Recife,2632,2025-01-08,2025-01-15,9.3,0.0,7.5,2024-5-16
+TOLIVE One Housi Recife by Carpediem,Recife,1720,2025-01-08,2025-01-15,1.4,None,8.4,2024-5-16
+Flat Refugio! Vista deslumbrante! Frente-mar,Recife,1008,2025-01-08,2025-01-15,14.3,0.0,8.2,2024-5-16
+Park Hotel,Recife,2684,2025-01-08,2025-01-15,8.6,0.1,8.5,2024-5-16
+Hotel Nacional Inn Recife Aeroporto,Recife,2306,2025-01-08,2025-01-15,8.0,1.2,7.1,2024-5-16
+Flat - Boa Viagem para até 5 pessoas andar ALTO vista Mar Piscina Wifi 500Mbps,Recife,1745,2025-01-08,2025-01-15,6.2,0.8,9.8,2024-5-16
+Flat Novo e Moderno a 200m do Shopping  com Piscina wifii 500mbps,Recife,2104,2025-01-08,2025-01-15,7.9,1.1,9.8,2024-5-16
+Bugan Recife Boa Viagem Hotel - by Atlantica,Recife,5042,2025-01-08,2025-01-15,8.3,0.35,9.1,2024-5-16
+Hotel Euro Suíte Recife Boa Viagem,Recife,3814,2025-01-08,2025-01-15,8.1,0.5,7.8,2024-5-16
+Flat Recife - Boa Viagem,Recife,2213,2025-01-08,2025-01-15,7.0,0.0,8.2,2024-5-16
+Bonito é ser Feliz,Recife,714,2025-01-08,2025-01-15,4.8,None,9.7,2024-5-16
+Roomo Praia de Boa Viagem Residencial,Recife,3197,2025-01-08,2025-01-15,8.7,0.35,8.0,2024-5-16
+Apartamento boa viagem,Recife,1314,2025-01-08,2025-01-15,5.2,None,None,2024-5-16
+Studio Portal dos Corais apartamento 1003,Recife,2205,2025-01-08,2025-01-15,5.6,0.1,8.4,2024-5-16
+Qto Duplo próximo ao Shopping Recife,Recife,625,2025-01-08,2025-01-15,8.1,None,10.0,2024-5-16
+Apartamento bem localizado prox. à praia,Recife,714,2025-01-08,2025-01-15,7.5,0.25,None,2024-5-16
+Duplex,Recife,714,2025-01-08,2025-01-15,0.7,None,None,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM802,Recife,1708,2025-01-08,2025-01-15,9.6,0.4,9.2,2024-5-16
+Flat Edf Golden Beach,Recife,2744,2025-01-08,2025-01-15,14.2,0.0,8.5,2024-5-16
+Apart Hotel Beach Class HÔM - 1902,Recife,1618,2025-01-08,2025-01-15,6.6,None,10.0,2024-5-16
+Conforto e praticidade em Boa Viagem.,Recife,1593,2025-01-08,2025-01-15,7.9,1.1,9.1,2024-5-16
+NovoHotell Recife,Recife,2480,2025-01-08,2025-01-15,1.5,None,8.1,2024-5-16
+Espaço inteiro a beira mar,Recife,1142,2025-01-08,2025-01-15,7.0,None,None,2024-5-16
+Aconchegante Flat na Orla,Recife,1060,2025-01-08,2025-01-15,14.2,0.0,8.0,2024-5-16
+Beira-Mar Boa Viagem - Ivone Asfora by Bnb Flex,Recife,1695,2025-01-08,2025-01-15,9.5,0.5,8.6,2024-5-16
+Mangue Oranje Hostel,Recife,1330,2025-01-08,2025-01-15,1.3,2.8,7.7,2024-5-16
+Lindo apartamento na beira-mar de Boa Viagem,Recife,1260,2025-01-08,2025-01-15,4.7,0.0,9.4,2024-5-16
+Parque Shopping #2001 - Apartamento Aconchegante em Boa Viagem por Carpediem,Recife,2973,2025-01-08,2025-01-15,3.5,0.9,9.8,2024-5-16
+Flats de Luxo by BnbFlex - Costa Vicentina,Recife,1597,2025-01-08,2025-01-15,10.2,0.1,8.6,2024-5-16
+Hotel Fit transamérica,Recife,1701,2025-01-08,2025-01-15,7.0,None,10.0,2024-5-16
+Mar Hotel Conventions,Recife,3374,2025-01-08,2025-01-15,8.7,0.5,8.6,2024-5-16
+Flat para 4 pessoas em Boa Viagem com Piscina Wifi 500Mbps localizado a 350 metros da Praia,Recife,1882,2025-01-08,2025-01-15,6.5,0.0,9.5,2024-5-16
+Betel Beach Flat Internacional Boa Viagem,Recife,3850,2025-01-08,2025-01-15,4.3,0.0,7.7,2024-5-16
+Stay Residence - CASA COMPARTILHADA,Recife,504,2025-01-08,2025-01-15,1.0,None,6.7,2024-5-16
+Flat Beach Class Executive,Recife,2520,2025-01-08,2025-01-15,4.3,0.0,7.9,2024-5-16
+Studio Piedade,Recife,1017,2025-01-08,2025-01-15,14.9,0.65,7.8,2024-5-16
+Flat do lado Shopping Boa Vista,Recife,809,2025-01-08,2025-01-15,0.7,None,1.0,2024-5-16
+Kitnet na Boa Vista Recife - 508,Recife,1279,2025-01-08,2025-01-15,1.2,None,9.1,2024-5-16
+Studio novo e equipado em Boa Viagem Rooftop #1004,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,8.7,2024-5-16
+Extraordinary Seafront Apartment,Recife,3928,2025-01-08,2025-01-15,6.8,0.0,9.8,2024-5-16
+Beach Class Executive,Recife,1369,2025-01-08,2025-01-15,4.2,0.1,None,2024-5-16
+Pousada Nordestina,Recife,1260,2025-01-08,2025-01-15,14.1,0.2,7.4,2024-5-16
+Pousada Solar do Lazer,Recife,268,2025-01-08,2025-01-15,0.5,None,None,2024-5-16
+Lindo Apartamento com piscina à 100m do MAR,Recife,1393,2025-01-08,2025-01-15,8.7,0.2,8.3,2024-5-16
+Rede Andrade Vela Branca,Recife,1563,2025-01-08,2025-01-15,8.3,0.35,6.6,2024-5-16
+Espaço rústico e aconchegante 1,Recife,600,2025-01-08,2025-01-15,3.2,None,None,2024-5-16
+Aram Beach Boa Viagem,Recife,2719,2025-01-08,2025-01-15,8.2,0.1,7.6,2024-5-16
+Condomínio Navegantes Residence Hotel,Recife,1333,2025-01-08,2025-01-15,7.0,0.1,7.5,2024-5-16
+Flat/Boa Viagem - Wi-Fi 400mbps,Recife,1642,2025-01-08,2025-01-15,6.2,0.85,9.8,2024-5-16
+Hostel Brasil Recife,Recife,347,2025-01-08,2025-01-15,7.5,None,9.0,2024-5-16
+Loft Portal Beach,Recife,714,2025-01-08,2025-01-15,3.6,0.25,6.5,2024-5-16
+Flat mobiliado na rua da Aurora,Recife,900,2025-01-08,2025-01-15,0.45,None,6.5,2024-5-16
+Av boa viagem 618,Recife,762,2025-01-08,2025-01-15,4.5,0.1,None,2024-5-16
+quintal293,Recife,1260,2025-01-08,2025-01-15,0.4,2.2,9.9,2024-5-16
+Hotel das Fronteiras,Recife,1120,2025-01-08,2025-01-15,1.7,None,4.6,2024-5-16
+Flat Boa Viagem,Recife,1178,2025-01-08,2025-01-15,9.3,0.1,9.5,2024-5-16
+Hosts BR - Studio Funcional em Boa Viagem(s/taxas),Recife,1721,2025-01-08,2025-01-15,6.2,0.85,8.7,2024-5-16
+Flat localizado a 200m Shopping Recife bem Perto da Praia de Boa Viagem e com Wi-Fi 400Mbps,Recife,2009,2025-01-08,2025-01-15,7.8,0.9,9.1,2024-5-16
+Flat Beach Barra - Praia do Paiva - Ilha do amor,Recife,1640,2025-01-08,2025-01-15,19.5,0.0,8.7,2024-5-16
+Studio 51 residence,Recife,801,2025-01-08,2025-01-15,15.5,0.1,7.8,2024-5-16
+Flat Quarto e Sala 400 metros da Praia de Boa Viagem com Piscina Wi-Fi 220Mbps,Recife,1939,2025-01-08,2025-01-15,6.2,0.0,8.4,2024-5-16
+Lindo apartamento no melhor do Recife,Recife,1603,2025-01-08,2025-01-15,3.5,0.9,9.8,2024-5-16
+Beira mar Flat Golden Beach Piedade,Recife,1190,2025-01-08,2025-01-15,14.3,0.0,9.3,2024-5-16
+Paiva (Barra Home Stay) Luxuoso - vista incrível 26 andar,Recife,1389,2025-01-08,2025-01-15,19.5,0.0,9.5,2024-5-16
+Nobile Residences Maria Frazão,Recife,2898,2025-01-08,2025-01-15,10.2,0.0,9.3,2024-5-16
+Flat em Boa Viagem 100% Equipado,Recife,2380,2025-01-08,2025-01-15,6.4,0.55,9.9,2024-5-16
+Hosts BR - Flat frente mar c/ cozinha(sem taxas),Recife,2219,2025-01-08,2025-01-15,18.4,0.0,8.4,2024-5-16
+Perto do Chevrolet Hall,Recife,714,2025-01-08,2025-01-15,3.3,None,10.0,2024-5-16
+Conforto e Estilo no Beach Class Santa Maria,Recife,1712,2025-01-08,2025-01-15,6.3,0.6,7.4,2024-5-16
+Charmoso e Aconchegante,Recife,1960,2025-01-08,2025-01-15,7.3,0.5,9.5,2024-5-16
+Flat a 100 metros da praia - Bairro de Boa Viagem,Recife,1178,2025-01-08,2025-01-15,10.2,None,None,2024-5-16
+Hosts BR - Flat Beach Class Boa Viagem (sem taxas),Recife,2165,2025-01-08,2025-01-15,6.6,0.8,8.8,2024-5-16
+Aurora Recife Hostel,Recife,1176,2025-01-08,2025-01-15,1.1,None,None,2024-5-16
+Aconchegante ótima localização e vista para o mar,Recife,1890,2025-01-08,2025-01-15,0.3,2.6,8.3,2024-5-16
+Edifício Califórnia,Recife,704,2025-01-08,2025-01-15,5.4,None,None,2024-5-16
+Boa Viagem Beach Flat apt 304,Recife,1197,2025-01-08,2025-01-15,8.7,0.2,None,2024-5-16
+Excelente Flat em Boa Viagem 2 quartos Beach Class Ideal para Família ou Viagens de Negócio NOB1804,Recife,2730,2025-01-08,2025-01-15,6.6,0.8,9.5,2024-5-16
+VISTA MAR BOA VIAGEM - BEACH CLASS EXECUTIVE,Recife,2680,2025-01-08,2025-01-15,4.2,0.0,9.6,2024-5-16
+Casa perto do Centro de Convenções,Recife,762,2025-01-08,2025-01-15,3.3,None,None,2024-5-16
+Beach Class Boa Viagem - Apartamento em Hotel Transamerica 5 Estrelas Vista para o Mar,Recife,2023,2025-01-08,2025-01-15,4.3,None,None,2024-5-16
+Flat luxo Studio Everest ap 1403,Recife,1666,2025-01-08,2025-01-15,4.7,0.15,8.7,2024-5-16
+Maria Renda #1501 - Flat em Recife por Carpediem,Recife,3108,2025-01-08,2025-01-15,7.9,0.1,None,2024-5-16
+Kitnet na Boa Vista Recife - 1203,Recife,1279,2025-01-08,2025-01-15,1.2,None,9.5,2024-5-16
+Meu flat no coração de Recife,Recife,1411,2025-01-08,2025-01-15,3.5,0.9,10.0,2024-5-16
+Sossego com excelente localização em Boa Viagem,Recife,1785,2025-01-08,2025-01-15,6.3,0.9,8.2,2024-5-16
+Rooftop.470 em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,7.8,2024-5-16
+Hospede-se próximo ao Aeroporto Internacional dos Guararapes em Recife - Rua Esdras Farias  15B,Recife,536,2025-01-08,2025-01-15,7.0,None,10.0,2024-5-16
+BlubellaRecife,Recife,1088,2025-01-08,2025-01-15,7.7,None,None,2024-5-16
+Apart hotel c WiFi prox a Praia de Boa Viagem PE,Recife,4296,2025-01-08,2025-01-15,6.6,0.55,8.1,2024-5-16
+Flat na Praia em HOTEL DE LUXO (1001),Recife,1785,2025-01-08,2025-01-15,4.3,0.15,10.0,2024-5-16
+Excelente 2 Quartos em Setúbal Boa Viagem eal para famílias e executivos PM306,Recife,2219,2025-01-08,2025-01-15,9.6,0.4,8.6,2024-5-16
+Moradia dos sonhos 30 m da praia,Recife,1180,2025-01-08,2025-01-15,7.9,None,None,2024-5-16
+STAY POUSADA,Recife,798,2025-01-08,2025-01-15,1.4,None,6.9,2024-5-16
+Flat Beira Mar Recife - Praia de Piedade,Recife,4480,2025-01-08,2025-01-15,12.5,0.0,9.1,2024-5-16
+Apartamento próximo ao aeroporto e praia,Recife,809,2025-01-08,2025-01-15,9.0,0.9,5.3,2024-5-16
+Residencial D'itália "Praia de Piedade com garagem",Recife,1363,2025-01-08,2025-01-15,15.6,0.0,8.3,2024-5-16
+Eclipse Motel,Recife,774,2025-01-08,2025-01-15,6.5,None,6.1,2024-5-16
+boa viagem vista mar,Recife,2450,2025-01-08,2025-01-15,8.7,0.35,9.7,2024-5-16
+ibis Recife Aeroporto,Recife,2219,2025-01-08,2025-01-15,9.2,1.6,8.3,2024-5-16
+Condomínio Ibiza #703 - Apartamento na Praia de Candeias por Carpediem,Recife,1327,2025-01-08,2025-01-15,15.7,0.15,7.4,2024-5-16
+Flat Recife/Paiva Beira Mar Frente p/ Ilha do Amor,Recife,2132,2025-01-08,2025-01-15,19.2,0.0,9.1,2024-5-16
+Paiva home stay,Recife,1339,2025-01-08,2025-01-15,18.9,None,None,2024-5-16
+Casa com piscina aconchegante 300 m do mar,Recife,1856,2025-01-08,2025-01-15,12.6,0.4,5.5,2024-5-16
+Flat no Mercure Navegantes,Recife,1097,2025-01-08,2025-01-15,7.0,None,None,2024-5-16
+Kitnet 1102 - Apartamento para temporada,Recife,1279,2025-01-08,2025-01-15,1.2,None,8.8,2024-5-16
+Beach Class #3506 - Suíte Confortável by Carpediem,Recife,1622,2025-01-08,2025-01-15,1.7,None,8.0,2024-5-16
+Flat Beira Mar Beach Class,Recife,2447,2025-01-08,2025-01-15,4.3,0.1,6.0,2024-5-16
+Acero'Lar,Recife,357,2025-01-08,2025-01-15,0.5,2.9,1.0,2024-5-16
+RoofTop #601 - Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,10.0,2024-5-16
+Seu lar no melhor de Recife - Boa Viagem.,Recife,1470,2025-01-08,2025-01-15,8.5,1.1,None,2024-5-16
+Apartamento na melhor localização de Recife,Recife,884,2025-01-08,2025-01-15,3.6,None,4.0,2024-5-16
+QUARTO ARCO-ÍRES-TRIPLO CONFORTO E PRIVACIDADE- Bairro do Espinheiro -RECIFE- PERNAMBUCO,Recife,1142,2025-01-08,2025-01-15,1.9,None,None,2024-5-16
+Flat Navegantes Residence - Mar,Recife,2094,2025-01-08,2025-01-15,7.0,0.1,10.0,2024-5-16
+Flet boa viagem,Recife,1190,2025-01-08,2025-01-15,9.3,0.1,1.0,2024-5-16
+Cantinho especial de Piedade,Recife,1130,2025-01-08,2025-01-15,15.6,0.95,10.0,2024-5-16
+Flat Radisson Recife,Recife,3822,2025-01-08,2025-01-15,5.7,0.0,9.3,2024-5-16
+Lindo apartamento em Recife,Recife,1017,2025-01-08,2025-01-15,3.6,None,1.0,2024-5-16
+Mercure #508 - Apê em Boa Viagem por Carpediem,Recife,2162,2025-01-08,2025-01-15,7.0,0.1,None,2024-5-16
+Piscina no Rooftop! Exclusivo ''Apartamento Compacto com Design Moderno e Infraestrutura Completa em Boa viagem - Estacionamento e Portaria 24h! Roupas de Cama Toalhas e mimos inclusos!'',Recife,2416,2025-01-08,2025-01-15,6.2,0.8,9.3,2024-5-16
+Apartamento e Suítes Mobiliada Climatizada Campo Grande,Recife,1553,2025-01-08,2025-01-15,2.6,1.4,9.0,2024-5-16
+Kitnet 1 quarto com banheiro carnaval recife  condomínio fechado,Recife,1339,2025-01-08,2025-01-15,6.3,2.7,None,2024-5-16
+Pousada Praia Boa Viagem,Recife,1663,2025-01-08,2025-01-15,8.5,0.15,8.0,2024-5-16
+No coração de Boa Viagem,Recife,2205,2025-01-08,2025-01-15,8.2,0.15,9.3,2024-5-16
+Aconchego e Conveniência - Apartamento para 2pessoas a 2min da Praia de Boa viagem - 1 Quarto com Ar-Condicionado - Wi-Fi e Mobilia COMPLETA '' Localização Privilegiada com Custo-Beneficio Imbatível em Recife!'' -Promoção Exclusiva-,Recife,1687,2025-01-08,2025-01-15,5.8,0.25,8.2,2024-5-16
+Rooftop #401 - Loft em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,10.0,2024-5-16
+Flats Mobiliados Zona Norte Casa forte recife Aluguel por temporada Direto com o dono,Recife,1603,2025-01-08,2025-01-15,3.6,None,8.0,2024-5-16
+Excelente localização na zona norte - Sem Taxas,Recife,2100,2025-01-08,2025-01-15,4.2,None,9.5,2024-5-16
+Pousada Solar do Lazer,Recife,274,2025-01-08,2025-01-15,0.5,None,None,2024-5-16
+Hostel solar do lazer,Recife,274,2025-01-08,2025-01-15,0.5,None,None,2024-5-16
+Ótimo Apt de 1qt a 60mts do Consulado EUA,Recife,1546,2025-01-08,2025-01-15,1.2,None,None,2024-5-16
+Kitnet com hidromassagem boa viagem,Recife,1151,2025-01-08,2025-01-15,6.1,2.7,3.0,2024-5-16
+Ótima Localização - Zona Norte - SEM TAXAS,Recife,1890,2025-01-08,2025-01-15,2.8,None,8.9,2024-5-16
+Requinte e sofisticação ao lado Jardim Botânico,Recife,1260,2025-01-08,2025-01-15,10.2,None,7.0,2024-5-16
+Rooftop #705 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,10.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1703,Recife,1533,2025-01-08,2025-01-15,1.7,None,8.7,2024-5-16
+Flora Pousada,Recife,2035,2025-01-08,2025-01-15,0.45,2.9,None,2024-5-16
+#403 Quádruplo em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,9.0,2024-5-16
+Rooftop #1402 - Studio em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Suíte na beira mar da Praia de Piedade por Carpediem,Recife,1757,2025-01-08,2025-01-15,13.6,0.5,5.0,2024-5-16
+Rooftop #1308 - Estúdio em Boa Viagem by Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,9.0,2024-5-16
+Beach Class Executive - Beira Mar Quádruplo,Recife,2703,2025-01-08,2025-01-15,4.2,0.0,None,2024-5-16
+Pousada Flat Hotel em Casa Forte,Recife,1253,2025-01-08,2025-01-15,4.4,None,8.0,2024-5-16
+Rooftop #1405 - Suíte em Boa Viagem by Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Rooftop #603 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,10.0,2024-5-16
+Melhor local da zona norte Sem Taxas,Recife,2100,2025-01-08,2025-01-15,3.3,None,9.2,2024-5-16
+Rooftop#1101 - Luxo em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,None,None,2024-5-16
+Rooftop #704 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,10.0,2024-5-16
+Paiva Home Stay - Bugan Paiva by Flatbpaiva,Recife,3825,2025-01-08,2025-01-15,19.6,0.0,8.5,2024-5-16
+Rooftop #306 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,8.4,2024-5-16
+Parque Shopping #2206 - Apartamento em Boa Viagem Housi por Carpediem,Recife,2284,2025-01-08,2025-01-15,3.5,0.9,None,2024-5-16
+Ótimo Flat Bairro da Jaqueira Recife até 3 pessoas O Bairro mais Verde da Cidade PBO902,Recife,1876,2025-01-08,2025-01-15,3.3,None,7.5,2024-5-16
+Vista EXPLENDIDA MAR duplex na cobertura ilha do amor Barra Home Stay,Recife,2678,2025-01-08,2025-01-15,19.5,0.65,None,2024-5-16
+Parque Shopping #1304 - Apê conforto por Carpediem,Recife,2284,2025-01-08,2025-01-15,3.5,0.9,6.0,2024-5-16
+Rooftop #605 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,9.3,2024-5-16
+Rooftop #807 - O Melhor de Boa Viagem by Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,8.5,2024-5-16
+Rooftop #706 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Homes Stay #2307 - Flat em Recife por Carpediem,Recife,2703,2025-01-08,2025-01-15,8.7,0.35,None,2024-5-16
+Rooftop #1105 - Suíte em Recife por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Rooftop #108 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,9.0,2024-5-16
+Rooftop #1003 - Studio na Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Apt aconchegante e central,Recife,643,2025-01-08,2025-01-15,1.4,None,None,2024-5-16
+Paiva Home Stay - Vista dos Sonhos,Recife,2101,2025-01-08,2025-01-15,19.7,0.0,8.5,2024-5-16
+Rooftop #1306 - Apart em Boa Viagem Por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,8.0,2024-5-16
+Rooftop #107 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,9.0,2024-5-16
+Rooftop #806 - Apto em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,9.5,2024-5-16
+Rooftop #501 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,8.5,2024-5-16
+Rooftop #1006 - Studio na Praia por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,8.5,2024-5-16
+RoofTop #405 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,7.0,2024-5-16
+Kitnet recife carnaval 2024,Recife,1487,2025-01-08,2025-01-15,6.3,2.7,4.0,2024-5-16
+Edf: rubi,Recife,2678,2025-01-08,2025-01-15,1.5,None,10.0,2024-5-16
+Praia de jangada 103 - barra de jangada recife,Recife,1809,2025-01-08,2025-01-15,20.0,1.5,8.2,2024-5-16
+Goldenland Home Service,Recife,2829,2025-01-08,2025-01-15,6.8,0.7,8.3,2024-5-16
+Rooftop #606 - Studio em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Meu Cantinho,Recife,2079,2025-01-08,2025-01-15,5.1,None,4.0,2024-5-16
+Transamerica Fit Recife- Flat mobiliado,Recife,2800,2025-01-08,2025-01-15,7.0,None,9.0,2024-5-16
+Marbelo Pernambuco,Recife,1714,2025-01-08,2025-01-15,0.4,2.8,4.5,2024-5-16
+Apartamento 2 quartos 1km da Praia,Recife,3094,2025-01-08,2025-01-15,6.4,1.5,10.0,2024-5-16
+Conforto e Localização,Recife,2142,2025-01-08,2025-01-15,8.9,None,4.0,2024-5-16
+Flat Super Luxo - Boa Viagem,Recife,3010,2025-01-08,2025-01-15,6.4,0.55,None,2024-5-16
+Flat em Boa Viagem Rooftop 470 Conforto e Localização privilegiada,Recife,4536,2025-01-08,2025-01-15,6.4,0.55,9.4,2024-5-16
+Flat vista mar Boa Viagem,Recife,2794,2025-01-08,2025-01-15,7.0,0.1,8.5,2024-5-16
+Casa poucos metros do mar Cabo de Sto Agostinho,Recife,2457,2025-01-08,2025-01-15,14.8,0.0,None,2024-5-16
+Apt candeias,Recife,1714,2025-01-08,2025-01-15,16.7,0.55,None,2024-5-16
+Flat 1203 BEIRA MAR no Barra Classic,Recife,2889,2025-01-08,2025-01-15,19.4,0.0,9.6,2024-5-16
+Casa no coração de Recife para Carnaval,Recife,2400,2025-01-08,2025-01-15,1.0,2.8,10.0,2024-5-16
+Rooftop 470 #607 - em Boa Viagem por Carpediem,Recife,2580,2025-01-08,2025-01-15,6.4,0.55,6.3,2024-5-16
+FLATS ROSARINHO PRINCE SPRING,Recife,3318,2025-01-08,2025-01-15,3.1,None,1.0,2024-5-16
+Lindo Apartamento Av. Boa Viagem. 2Qts. Cozinha completa,Recife,3479,2025-01-08,2025-01-15,4.0,0.1,10.0,2024-5-16
+FLAT IMPERIAL SUITES Boa Viagem,Recife,1874,2025-01-08,2025-01-15,7.2,None,None,2024-5-16
+Apartamento aconchegante em Candeias,Recife,4165,2025-01-08,2025-01-15,16.8,0.0,9.7,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-08,2025-01-15,9.9,0.8,None,2024-5-16
+Paiva Home Stay Aptº temporada,Recife,3920,2025-01-08,2025-01-15,14.9,0.0,7.9,2024-5-16
+EDF: RUBI 184,Recife,4123,2025-01-08,2025-01-15,1.5,None,8.0,2024-5-16
+Flet dona anesia,Recife,4284,2025-01-08,2025-01-15,9.3,0.1,None,2024-5-16
+Studio D'Roma em Boa Viagem,Recife,3780,2025-01-08,2025-01-15,7.7,0.6,8.5,2024-5-16
+Flat boa viagem 1,Recife,3749,2025-01-08,2025-01-15,7.8,0.65,7.0,2024-5-16
+Clube Vita #703 - Aconchego em Boa Viagem by Carpediem,Recife,4459,2025-01-08,2025-01-15,6.6,1.8,None,2024-5-16
+Radisson Hotel ap 801,Recife,10115,2025-01-08,2025-01-15,5.7,0.15,None,2024-5-16
+Seu lugar no Carnaval do Recife!,Recife,4788,2025-01-08,2025-01-15,0.45,2.1,None,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-08,2025-01-15,9.9,0.8,None,2024-5-16
+Edf: RUBI,Recife,4284,2025-01-08,2025-01-15,1.5,None,None,2024-5-16
+APTO mobiliado Candeias JBO/PE,Recife,619,2025-01-08,2025-01-15,18.1,1.2,8.0,2024-5-16
+Novotel Recife Marina,Recife,8461,2025-01-08,2025-01-15,1.6,None,None,2024-5-16
+CASA COMPACTA NO PRIVÊ COQUEIRAL COM GARAGEM,Recife,3570,2025-01-08,2025-01-15,17.4,1.1,None,2024-5-16
+Apto Carnaval 2024 Ed Camilla,Recife,5600,2025-01-08,2025-01-15,4.8,None,None,2024-5-16
+Flat Beira Mar,Recife,14000,2025-01-08,2025-01-15,4.1,0.0,None,2024-5-16
+Apartamento Beira Mar em Recife,Recife,9450,2025-01-08,2025-01-15,14.1,0.5,10.0,2024-5-16
+BV Paradiso,Recife,10064,2025-01-08,2025-01-15,5.6,0.0,10.0,2024-5-16
+FLAT MARULHOS MURO ALTO 02 Estr Ac p Praia de Muro Alto e Camboa,Recife,7140,2025-01-08,2025-01-15,43.7,0.0,None,2024-5-16
+Apto 3/4 Mobiliado em Recife Cond. CLUBE,Recife,9520,2025-01-08,2025-01-15,6.5,1.8,None,2024-5-16
+apartamento,Recife,8033,2025-01-08,2025-01-15,10.1,None,None,2024-5-16
+Apartamento Beira Mar em Recife,Recife,13650,2025-01-08,2025-01-15,14.1,0.5,None,2024-5-16
+Apduplex,Recife,13388,2025-01-08,2025-01-15,8.5,0.15,None,2024-5-16
+Apartamento suite na Avenida BoaViagem,Recife,1800,2025-01-08,2025-01-15,4.3,0.5,9.8,2024-5-16
+Flat frente mar no Transamérica Beach Class International,Recife,2466,2025-01-08,2025-01-15,4.3,0.0,None,2024-5-16
+Flat Paiva Home Stay,Recife,1701,2025-01-08,2025-01-15,18.9,0.0,7.3,2024-5-16
+Pousada Joãozinho Caminhador,Recife,1260,2025-01-08,2025-01-15,11.6,0.25,6.0,2024-5-16
+flatpaivahome bugan paiva,Recife,1886,2025-01-08,2025-01-15,19.6,0.7,None,2024-5-16
+Apart Hotel Marinas Tamandaré,Recife,958,2025-01-08,2025-01-15,4.8,None,1.0,2024-5-16
+Hosts BR - Frente Mar c/ cozinha,Recife,1626,2025-01-08,2025-01-15,19.5,0.0,10.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1401,Recife,1533,2025-01-08,2025-01-15,1.7,None,7.7,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1603,Recife,1533,2025-01-08,2025-01-15,1.7,None,7.5,2024-5-16
+Apartamento Alice Tenório,Recife,1960,2025-01-08,2025-01-15,6.1,0.4,9.5,2024-5-16
+Flat Super Aconchegante na Jaqueira com WI-FI e sem taxas,Recife,1960,2025-01-08,2025-01-15,3.3,None,10.0,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM805,Recife,1918,2025-01-08,2025-01-15,9.6,0.4,8.6,2024-5-16
+Quarto INDISPONÍVEL NO PRESENTE,Recife,1418,2025-01-08,2025-01-15,4.5,0.15,1.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1205,Recife,1533,2025-01-08,2025-01-15,1.7,None,6.8,2024-5-16
+Apartamento/Flat Boa Viagem,Recife,2597,2025-01-08,2025-01-15,6.8,0.0,9.4,2024-5-16
+Flat incrível 2 qtos Beach class conselheiro,Recife,1915,2025-01-08,2025-01-15,7.7,0.25,None,2024-5-16
+Hosts BR-Flat Fit Transamérica Boa Viagem s/ taxa,Recife,1971,2025-01-08,2025-01-15,7.0,0.65,8.6,2024-5-16
+BOA VIAGEM PROX AO MAR,Recife,1785,2025-01-08,2025-01-15,8.9,0.45,8.5,2024-5-16
+Hosts BR - Flats Frente Mar c/ Cozinha,Recife,1626,2025-01-08,2025-01-15,17.5,None,None,2024-5-16
+Hosts BR - Estúdio em Boa Viagem(s/taxas),Recife,1684,2025-01-08,2025-01-15,7.8,0.9,7.9,2024-5-16
+Flat em Boa Viagem,Recife,2673,2025-01-08,2025-01-15,7.0,0.7,None,2024-5-16
+Flat Barra home stay 2202,Recife,2520,2025-01-08,2025-01-15,19.6,0.7,9.7,2024-5-16
+Excelente 3 Quartos Rua Navegantes em Boa Viagem No melhor local da praia SAL802,Recife,3570,2025-01-08,2025-01-15,6.1,0.15,9.1,2024-5-16
+Mercure Navegantes Recife Hotel,Recife,2419,2025-01-08,2025-01-15,7.0,None,None,2024-5-16
+apto na quadra do mar,Recife,2835,2025-01-08,2025-01-15,14.5,0.25,8.0,2024-5-16
+Apto a beira-mar em Jaboatao dos Guararapes PE,Recife,2979,2025-01-08,2025-01-15,19.4,0.6,9.0,2024-5-16
+Cosmeflats,Recife,2100,2025-01-08,2025-01-15,19.6,0.75,4.4,2024-5-16
+Apt novíssimo Tamarineira,Recife,3780,2025-01-08,2025-01-15,4.1,None,10.0,2024-5-16
+Flat no melhor lugar de boa viagem,Recife,4543,2025-01-08,2025-01-15,4.5,0.2,10.0,2024-5-16
+Hostel da Socorro,Recife,2835,2025-01-08,2025-01-15,9.0,0.9,1.0,2024-5-16
+Incrivel apto em frente a Praia de Piedade PE,Recife,3847,2025-01-08,2025-01-15,13.2,0.0,6.0,2024-5-16
+Lindo apto à beira-mar Jaboatão dos Guararapes - PE,Recife,3931,2025-01-08,2025-01-15,16.6,0.5,7.0,2024-5-16
+Aconchego Boa Viagem,Recife,4032,2025-01-08,2025-01-15,8.4,None,None,2024-5-16
+Golden home service,Recife,7013,2025-01-08,2025-01-15,7.0,0.6,10.0,2024-5-16
+RESERVA DO PAIVA - A MELHOR CASA PARA TEMPORADA,Recife,10121,2025-01-08,2025-01-15,26.6,0.0,8.4,2024-5-16
+Cond Clube em Piedade noCarnaval,Recife,11246,2025-01-08,2025-01-15,15.7,1.0,None,2024-5-16
+FLAT PRAIA DOS CARNEIROS / TAMANDARÉ 06 TÉRREO,Recife,14000,2025-01-08,2025-01-15,78.2,0.1,10.0,2024-5-16
+Veja o mar no silêncio do centro! Hospede-se no quarto,Recife,428,2025-01-15,2025-01-22,0.2,2.5,8.3,2024-5-16
+Lindo APT Azul a 50 metros do mar - Praia de Boa Viagem,Recife,750,2025-01-15,2025-01-22,5.8,None,10.0,2024-5-16
+Lindo APT Cinza à 50m do mar - Praia de Boa Viagem,Recife,838,2025-01-15,2025-01-22,5.8,None,10.0,2024-5-16
+Villa d'Oro Hotel,Recife,1709,2025-01-15,2025-01-22,1.4,2.9,8.6,2024-5-16
+Hotel Dan Inn Mar Piedade - Grande Recife,Recife,2101,2025-01-15,2025-01-22,13.7,0.0,7.8,2024-5-16
+Dublê Hotel - The Original,Recife,1870,2025-01-15,2025-01-22,6.5,0.15,7.7,2024-5-16
+'"Apartamento EXCLUSIVO - Novo com 2 Quartos Climatizados Suíte Varanda Piscina e Academia - Vaga na garagem TV de 70'' Localização Premium ao Lado do Shopping Rio Mar - Inclui Enxoval Completo e Mimos!'",Recife,1245,2025-01-15,2025-01-22,3.5,1.0,9.9,2024-5-16
+ibis Recife Boa Viagem,Recife,2048,2025-01-15,2025-01-22,4.4,0.35,8.0,2024-5-16
+Rede Andrade LG Inn,Recife,1827,2025-01-15,2025-01-22,6.8,0.25,7.7,2024-5-16
+Transamerica Fit Recife,Recife,2426,2025-01-15,2025-01-22,7.0,0.65,8.2,2024-5-16
+Kastel Manibu Recife - Boa Viagem,Recife,2911,2025-01-15,2025-01-22,4.7,0.25,8.4,2024-5-16
+Aconchegante Apto de 1qt a 60mts do Consulado EUA,Recife,1011,2025-01-15,2025-01-22,1.2,None,9.7,2024-5-16
+Hotel Golden Park Recife Boa Viagem,Recife,2632,2025-01-15,2025-01-22,9.3,0.0,7.5,2024-5-16
+Rede Andrade Plaza Recife,Recife,1670,2025-01-15,2025-01-22,0.6,3.0,7.0,2024-5-16
+Radisson Recife,Recife,4998,2025-01-15,2025-01-22,5.7,0.0,8.8,2024-5-16
+Hotel Enseada Boa Viagem,Recife,1863,2025-01-15,2025-01-22,8.6,0.6,7.5,2024-5-16
+Marante Plaza Hotel,Recife,2800,2025-01-15,2025-01-22,5.0,0.0,8.3,2024-5-16
+APARTAMENTO PROXIMO À UFPE,Recife,964,2025-01-15,2025-01-22,8.4,None,9.1,2024-5-16
+Ramon Hostel Bar,Recife,380,2025-01-15,2025-01-22,8.5,0.45,7.8,2024-5-16
+Oxen Hostel 2024,Recife,226,2025-01-15,2025-01-22,0.45,None,6.0,2024-5-16
+Hotel Atlante Plaza,Recife,4136,2025-01-15,2025-01-22,9.2,0.0,8.8,2024-5-16
+AMPLA e CONFORTÁVEL SUITE - BAIRRO DO ESPINHEIRO - RECIFE,Recife,1273,2025-01-15,2025-01-22,1.6,None,9.6,2024-5-16
+Apartamentos a 2 min. da Praia localização exclusiva,Recife,1180,2025-01-15,2025-01-22,5.8,0.25,9.1,2024-5-16
+Flat Beach Class Executive,Recife,1066,2025-01-15,2025-01-22,4.3,0.0,None,2024-5-16
+Beira-mar Boa Viagem - Costa Vicentina by Bnb Flex,Recife,1575,2025-01-15,2025-01-22,10.2,0.5,8.6,2024-5-16
+Studio com varanda - Melhor localização do Arruda,Recife,682,2025-01-15,2025-01-22,3.6,None,9.0,2024-5-16
+Apartamento Beira Mar Boa Viagem,Recife,1336,2025-01-15,2025-01-22,5.7,0.5,8.5,2024-5-16
+Lê'Frevo Pernambucano Hostel,Recife,298,2025-01-15,2025-01-22,0.6,3.0,7.5,2024-5-16
+Fity Hotel,Recife,2737,2025-01-15,2025-01-22,7.3,0.25,8.7,2024-5-16
+Grand Mercure Recife Boa Viagem,Recife,3052,2025-01-15,2025-01-22,7.8,0.0,7.8,2024-5-16
+BOA VIAGEM - FLAT ROOFTOP ALTO PADRÃO,Recife,2142,2025-01-15,2025-01-22,6.4,0.55,9.8,2024-5-16
+Rede Andrade Onda Mar,Recife,1575,2025-01-15,2025-01-22,7.8,0.3,7.0,2024-5-16
+Duplex,Recife,714,2025-01-15,2025-01-22,0.7,None,9.5,2024-5-16
+Hotel Enseada Aeroporto,Recife,1565,2025-01-15,2025-01-22,9.7,0.75,7.5,2024-5-16
+Mercure Recife Navegantes,Recife,2249,2025-01-15,2025-01-22,7.0,0.1,7.2,2024-5-16
+Rooftop 470 - Novíssimo Flat Boa Viagem,Recife,2318,2025-01-15,2025-01-22,6.4,0.55,9.9,2024-5-16
+Transamerica Prestige Recife - Boa Viagem,Recife,3249,2025-01-15,2025-01-22,4.3,0.0,8.4,2024-5-16
+Hotel Jangadeiro,Recife,3374,2025-01-15,2025-01-22,6.9,0.5,7.8,2024-5-16
+BEIRA MAR- FLAT EXECUTIVE,Recife,2424,2025-01-15,2025-01-22,4.2,0.0,9.3,2024-5-16
+TOLIVE One Housi Recife by Carpediem,Recife,1720,2025-01-15,2025-01-22,1.4,None,8.4,2024-5-16
+Roomo Praia de Boa Viagem Residencial,Recife,2772,2025-01-15,2025-01-22,8.7,0.35,8.0,2024-5-16
+Hotel Nacional Inn Recife Aeroporto,Recife,2306,2025-01-15,2025-01-22,8.0,1.2,7.1,2024-5-16
+Flat Refugio! Vista deslumbrante! Frente-mar,Recife,1008,2025-01-15,2025-01-22,14.3,0.0,8.2,2024-5-16
+Flat Novo e Moderno a 200m do Shopping  com Piscina wifii 500mbps,Recife,2104,2025-01-15,2025-01-22,7.9,1.1,9.8,2024-5-16
+Bugan Recife Boa Viagem Hotel - by Atlantica,Recife,5042,2025-01-15,2025-01-22,8.3,0.35,9.1,2024-5-16
+Flat - Boa Viagem para até 5 pessoas andar ALTO vista Mar Piscina Wifi 500Mbps,Recife,1745,2025-01-15,2025-01-22,6.2,0.8,9.8,2024-5-16
+Flat Recife - Boa Viagem,Recife,2213,2025-01-15,2025-01-22,7.0,0.0,8.2,2024-5-16
+Apartamento boa viagem,Recife,1314,2025-01-15,2025-01-22,5.2,None,None,2024-5-16
+Studio Portal dos Corais apartamento 1003,Recife,2205,2025-01-15,2025-01-22,5.6,0.1,8.4,2024-5-16
+Bonito é ser Feliz,Recife,714,2025-01-15,2025-01-22,4.8,None,9.7,2024-5-16
+Lindo Apartamento com piscina - Beira Mar,Recife,1750,2025-01-15,2025-01-22,5.7,0.0,8.9,2024-5-16
+Qto Duplo próximo ao Shopping Recife,Recife,625,2025-01-15,2025-01-22,8.1,None,10.0,2024-5-16
+NovoHotell Recife,Recife,2480,2025-01-15,2025-01-22,1.5,None,8.1,2024-5-16
+Apart Hotel Beach Class HÔM - 1902,Recife,1618,2025-01-15,2025-01-22,6.6,None,10.0,2024-5-16
+Flat Edf Golden Beach,Recife,2744,2025-01-15,2025-01-22,14.2,0.0,8.5,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM802,Recife,1708,2025-01-15,2025-01-22,9.6,0.4,9.2,2024-5-16
+Duplex,Recife,714,2025-01-15,2025-01-22,0.7,None,None,2024-5-16
+Espaço inteiro a beira mar,Recife,1142,2025-01-15,2025-01-22,7.0,None,None,2024-5-16
+Beira-Mar Boa Viagem - Ivone Asfora by Bnb Flex,Recife,1695,2025-01-15,2025-01-22,9.5,0.5,8.6,2024-5-16
+Aconchegante Flat na Orla,Recife,1060,2025-01-15,2025-01-22,14.2,0.0,8.0,2024-5-16
+Excelente Flat em Boa Viagem 2 quartos Beach Class Ideal para Família ou Negócios NOB2105,Recife,2730,2025-01-15,2025-01-22,6.6,0.8,8.9,2024-5-16
+Mangue Oranje Hostel,Recife,1330,2025-01-15,2025-01-22,1.3,2.8,7.7,2024-5-16
+Park Hotel,Recife,3032,2025-01-15,2025-01-22,8.6,0.1,8.5,2024-5-16
+Mar Hotel Conventions,Recife,3374,2025-01-15,2025-01-22,8.7,0.5,8.6,2024-5-16
+Lindo apartamento na beira-mar de Boa Viagem,Recife,1260,2025-01-15,2025-01-22,4.7,0.0,9.4,2024-5-16
+Costa Mar Recife Hotel by Atlantica,Recife,2778,2025-01-15,2025-01-22,13.6,0.0,7.5,2024-5-16
+Flats de Luxo by BnbFlex - Costa Vicentina,Recife,1597,2025-01-15,2025-01-22,10.2,0.1,8.6,2024-5-16
+Hotel Fit transamérica,Recife,1701,2025-01-15,2025-01-22,7.0,None,10.0,2024-5-16
+Flat para 4 pessoas em Boa Viagem com Piscina Wifi 500Mbps localizado a 350 metros da Praia,Recife,1882,2025-01-15,2025-01-22,6.5,0.0,9.5,2024-5-16
+Parque Shopping #2001 - Apartamento Aconchegante em Boa Viagem por Carpediem,Recife,3015,2025-01-15,2025-01-22,3.5,0.9,9.8,2024-5-16
+Betel Beach Flat Internacional Boa Viagem,Recife,3850,2025-01-15,2025-01-22,4.3,0.0,7.7,2024-5-16
+Flat Beach Class Executive,Recife,2520,2025-01-15,2025-01-22,4.3,0.0,7.9,2024-5-16
+Lindo apartamento no melhor do Recife,Recife,1603,2025-01-15,2025-01-22,3.5,0.9,9.8,2024-5-16
+Studio Piedade,Recife,1017,2025-01-15,2025-01-22,14.9,0.65,7.8,2024-5-16
+Stay Residence - CASA COMPARTILHADA,Recife,504,2025-01-15,2025-01-22,1.0,None,6.7,2024-5-16
+Beach Class Executive,Recife,1369,2025-01-15,2025-01-22,4.2,0.1,None,2024-5-16
+Kitnet na Boa Vista Recife - 508,Recife,1279,2025-01-15,2025-01-22,1.2,None,9.1,2024-5-16
+Flat do lado Shopping Boa Vista,Recife,809,2025-01-15,2025-01-22,0.7,None,1.0,2024-5-16
+Studio novo e equipado em Boa Viagem Rooftop #1004,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,8.7,2024-5-16
+Extraordinary Seafront Apartment,Recife,3928,2025-01-15,2025-01-22,6.8,0.0,9.8,2024-5-16
+Pousada Nordestina,Recife,1260,2025-01-15,2025-01-22,14.1,0.2,7.4,2024-5-16
+Flat/Boa Viagem - Wi-Fi 400mbps,Recife,1642,2025-01-15,2025-01-22,6.2,0.85,9.8,2024-5-16
+Pousada Solar do Lazer,Recife,268,2025-01-15,2025-01-22,0.5,None,None,2024-5-16
+Condomínio Navegantes Residence Hotel,Recife,1333,2025-01-15,2025-01-22,7.0,0.1,7.5,2024-5-16
+Aram Beach Boa Viagem,Recife,2719,2025-01-15,2025-01-22,8.2,0.1,7.6,2024-5-16
+Espaço rústico e aconchegante 1,Recife,600,2025-01-15,2025-01-22,3.2,None,None,2024-5-16
+Loft Portal Beach,Recife,714,2025-01-15,2025-01-22,3.6,0.25,6.5,2024-5-16
+Rede Andrade Vela Branca,Recife,1610,2025-01-15,2025-01-22,8.3,0.35,6.6,2024-5-16
+Flat mobiliado na rua da Aurora,Recife,900,2025-01-15,2025-01-22,0.45,None,6.5,2024-5-16
+Hostel Brasil Recife,Recife,347,2025-01-15,2025-01-22,7.5,None,9.0,2024-5-16
+Flat Boa Viagem,Recife,1178,2025-01-15,2025-01-22,9.3,0.1,9.5,2024-5-16
+Hotel das Fronteiras,Recife,1120,2025-01-15,2025-01-22,1.7,None,4.6,2024-5-16
+Flat 507 - Rooftop Boa Viagem,Recife,1260,2025-01-15,2025-01-22,6.4,0.55,7.8,2024-5-16
+Av boa viagem 618,Recife,762,2025-01-15,2025-01-22,4.5,0.1,None,2024-5-16
+Flat localizado a 200m Shopping Recife bem Perto da Praia de Boa Viagem e com Wi-Fi 400Mbps,Recife,2009,2025-01-15,2025-01-22,7.8,0.9,9.1,2024-5-16
+quintal293,Recife,1260,2025-01-15,2025-01-22,0.4,2.2,9.9,2024-5-16
+Flat Beach Barra - Praia do Paiva - Ilha do amor,Recife,1640,2025-01-15,2025-01-22,19.5,0.0,8.7,2024-5-16
+Flat Quarto e Sala 400 metros da Praia de Boa Viagem com Piscina Wi-Fi 220Mbps,Recife,1939,2025-01-15,2025-01-22,6.2,0.0,8.4,2024-5-16
+Studio 51 residence,Recife,801,2025-01-15,2025-01-22,15.5,0.1,7.8,2024-5-16
+Paiva (Barra Home Stay) Luxuoso - vista incrível 26 andar,Recife,1389,2025-01-15,2025-01-22,19.5,0.0,9.5,2024-5-16
+Flat em Boa Viagem 100% Equipado,Recife,2380,2025-01-15,2025-01-22,6.4,0.55,9.9,2024-5-16
+Beach Class Boa Viagem - Apartamento em Hotel Transamerica 5 Estrelas Vista para o Mar,Recife,2023,2025-01-15,2025-01-22,4.3,None,None,2024-5-16
+Hosts BR - Flat frente mar c/ cozinha(sem taxas),Recife,2219,2025-01-15,2025-01-22,18.4,0.0,8.4,2024-5-16
+Charmoso e Aconchegante,Recife,1960,2025-01-15,2025-01-22,7.3,0.5,9.5,2024-5-16
+Flat Recife/Paiva Beira Mar Frente p/ Ilha do Amor,Recife,1610,2025-01-15,2025-01-22,19.2,0.0,9.1,2024-5-16
+Perto do Chevrolet Hall,Recife,714,2025-01-15,2025-01-22,3.3,None,10.0,2024-5-16
+Hosts BR - Flat Beach Class Boa Viagem (sem taxas),Recife,2165,2025-01-15,2025-01-22,6.6,0.8,8.8,2024-5-16
+Aurora Recife Hostel,Recife,1176,2025-01-15,2025-01-22,1.1,None,None,2024-5-16
+Boa Viagem Beach Flat apt 304,Recife,1197,2025-01-15,2025-01-22,8.7,0.2,None,2024-5-16
+Apartamento no Coração de Recife 3 Centro,Recife,961,2025-01-15,2025-01-22,0.45,2.9,10.0,2024-5-16
+Aconchegante ótima localização e vista para o mar,Recife,1922,2025-01-15,2025-01-22,0.3,2.6,8.3,2024-5-16
+VISTA MAR BOA VIAGEM - BEACH CLASS EXECUTIVE,Recife,2680,2025-01-15,2025-01-22,4.2,0.0,9.6,2024-5-16
+Excelente Flat em Boa Viagem 2 quartos Beach Class Ideal para Família ou Viagens de Negócio NOB1804,Recife,2730,2025-01-15,2025-01-22,6.6,0.8,9.5,2024-5-16
+Flat a 100 metros da praia - Bairro de Boa Viagem,Recife,1178,2025-01-15,2025-01-22,10.2,None,None,2024-5-16
+Edifício Califórnia,Recife,704,2025-01-15,2025-01-22,5.4,None,None,2024-5-16
+Sonho dos golfinhos,Recife,739,2025-01-15,2025-01-22,38.9,1.1,9.6,2024-5-16
+Apto em boa viagem novo e lindo,Recife,1575,2025-01-15,2025-01-22,10.0,None,10.0,2024-5-16
+Flat luxo Studio Everest ap 1403,Recife,1666,2025-01-15,2025-01-22,4.7,0.15,8.7,2024-5-16
+Casa perto do Centro de Convenções,Recife,762,2025-01-15,2025-01-22,3.3,None,None,2024-5-16
+Kitnet na Boa Vista Recife - 1203,Recife,1279,2025-01-15,2025-01-22,1.2,None,9.5,2024-5-16
+Meu flat no coração de Recife,Recife,1411,2025-01-15,2025-01-22,3.5,0.9,10.0,2024-5-16
+Rooftop.470 em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,7.8,2024-5-16
+Flat na Praia em HOTEL DE LUXO (1001),Recife,1785,2025-01-15,2025-01-22,4.3,0.15,10.0,2024-5-16
+BlubellaRecife,Recife,1088,2025-01-15,2025-01-22,7.7,None,None,2024-5-16
+Apart hotel c WiFi prox a Praia de Boa Viagem PE,Recife,4174,2025-01-15,2025-01-22,6.6,0.55,8.1,2024-5-16
+Flat Beira Mar Recife - Praia de Piedade,Recife,4480,2025-01-15,2025-01-22,12.5,0.0,9.1,2024-5-16
+STAY POUSADA,Recife,798,2025-01-15,2025-01-22,1.4,None,6.9,2024-5-16
+Hospede-se próximo ao Aeroporto Internacional dos Guararapes em Recife - Rua Esdras Farias  15B,Recife,536,2025-01-15,2025-01-22,7.0,None,10.0,2024-5-16
+Maria Renda #1501 - Flat em Recife por Carpediem,Recife,3153,2025-01-15,2025-01-22,7.9,0.1,None,2024-5-16
+Moradia dos sonhos 30 m da praia,Recife,1180,2025-01-15,2025-01-22,7.9,None,None,2024-5-16
+Apartamento próximo ao aeroporto e praia,Recife,809,2025-01-15,2025-01-22,9.0,0.9,5.3,2024-5-16
+Residencial D'itália "Praia de Piedade com garagem",Recife,1363,2025-01-15,2025-01-22,15.6,0.0,8.3,2024-5-16
+Eclipse Motel,Recife,774,2025-01-15,2025-01-22,6.5,None,6.1,2024-5-16
+boa viagem vista mar,Recife,2450,2025-01-15,2025-01-22,8.7,0.35,9.7,2024-5-16
+Condomínio Ibiza #703 - Apartamento na Praia de Candeias por Carpediem,Recife,1346,2025-01-15,2025-01-22,15.7,0.15,7.4,2024-5-16
+Paiva home stay,Recife,1339,2025-01-15,2025-01-22,18.9,None,None,2024-5-16
+ibis Recife Aeroporto,Recife,2255,2025-01-15,2025-01-22,9.2,1.6,8.3,2024-5-16
+Beach Class #3506 - Suíte Confortável by Carpediem,Recife,1645,2025-01-15,2025-01-22,1.7,None,8.0,2024-5-16
+Flat no Mercure Navegantes,Recife,1097,2025-01-15,2025-01-22,7.0,None,None,2024-5-16
+Flat - Boa viagem- Recife - Poucos metros da praia,Recife,1575,2025-01-15,2025-01-22,10.2,0.5,9.5,2024-5-16
+Casa com piscina aconchegante 300 m do mar,Recife,1856,2025-01-15,2025-01-22,12.6,0.4,5.5,2024-5-16
+Kitnet 1102 - Apartamento para temporada,Recife,1279,2025-01-15,2025-01-22,1.2,None,8.8,2024-5-16
+Flat Beira Mar Beach Class,Recife,2447,2025-01-15,2025-01-22,4.3,0.1,6.0,2024-5-16
+RoofTop #601 - Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,10.0,2024-5-16
+Seu lar no melhor de Recife - Boa Viagem.,Recife,1470,2025-01-15,2025-01-22,8.5,1.1,None,2024-5-16
+Acero'Lar,Recife,357,2025-01-15,2025-01-22,0.5,2.9,1.0,2024-5-16
+Apt 2 quartos com varanda próximo Praça Casa Forte o bairro mais agradável do Recife ARN901,Recife,1757,2025-01-15,2025-01-22,5.2,None,9.3,2024-5-16
+Flat Navegantes Residence - Mar,Recife,2094,2025-01-15,2025-01-22,7.0,0.1,10.0,2024-5-16
+Apartamento na melhor localização de Recife,Recife,884,2025-01-15,2025-01-22,3.6,None,4.0,2024-5-16
+Hostel Alvorada,Recife,506,2025-01-15,2025-01-22,8.4,None,1.5,2024-5-16
+Flat no Coração de Boa Viagem,Recife,1351,2025-01-15,2025-01-22,8.0,1.1,3.0,2024-5-16
+Flet boa viagem,Recife,1190,2025-01-15,2025-01-22,9.3,0.1,1.0,2024-5-16
+Mercure #508 - Apê em Boa Viagem por Carpediem,Recife,2193,2025-01-15,2025-01-22,7.0,0.1,None,2024-5-16
+Flat Radisson Recife,Recife,3822,2025-01-15,2025-01-22,5.7,0.0,9.3,2024-5-16
+Cantinho especial de Piedade,Recife,1130,2025-01-15,2025-01-22,15.6,0.95,10.0,2024-5-16
+Lindo apartamento em Recife,Recife,1017,2025-01-15,2025-01-22,3.6,None,1.0,2024-5-16
+Marbelo Pernambuco Hostel,Recife,1637,2025-01-15,2025-01-22,0.4,2.8,8.5,2024-5-16
+Piscina no Rooftop! Exclusivo ''Apartamento Compacto com Design Moderno e Infraestrutura Completa em Boa viagem - Estacionamento e Portaria 24h! Roupas de Cama Toalhas e mimos inclusos!'',Recife,2416,2025-01-15,2025-01-22,6.2,0.8,9.3,2024-5-16
+Pousada Praia Boa Viagem,Recife,1663,2025-01-15,2025-01-22,8.5,0.15,8.0,2024-5-16
+Apartamento e Suítes Mobiliada Climatizada Campo Grande,Recife,1553,2025-01-15,2025-01-22,2.6,1.4,9.0,2024-5-16
+Aconchego e Conveniência - Apartamento para 2pessoas a 2min da Praia de Boa viagem - 1 Quarto com Ar-Condicionado - Wi-Fi e Mobilia COMPLETA '' Localização Privilegiada com Custo-Beneficio Imbatível em Recife!'' -Promoção Exclusiva-,Recife,1687,2025-01-15,2025-01-22,5.8,0.25,8.2,2024-5-16
+Kitnet 1 quarto com banheiro carnaval recife  condomínio fechado,Recife,1339,2025-01-15,2025-01-22,6.3,2.7,None,2024-5-16
+No coração de Boa Viagem,Recife,2205,2025-01-15,2025-01-22,8.2,0.15,9.3,2024-5-16
+Rooftop #401 - Loft em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,10.0,2024-5-16
+Flats Mobiliados Zona Norte Casa forte recife Aluguel por temporada Direto com o dono,Recife,1603,2025-01-15,2025-01-22,3.6,None,8.0,2024-5-16
+Excelente localização na zona norte - Sem Taxas,Recife,2100,2025-01-15,2025-01-22,4.2,None,9.5,2024-5-16
+Ótimo Apt de 1qt a 60mts do Consulado EUA,Recife,1546,2025-01-15,2025-01-22,1.2,None,None,2024-5-16
+Kitnet com hidromassagem boa viagem,Recife,1151,2025-01-15,2025-01-22,6.1,2.7,3.0,2024-5-16
+Studio moderno em Boa viagem -Zona SUL todo mobiliado - SEM TAXAS,Recife,2100,2025-01-15,2025-01-22,7.9,0.9,10.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1703,Recife,1533,2025-01-15,2025-01-22,1.7,None,8.7,2024-5-16
+Rooftop #705 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,10.0,2024-5-16
+Pousada Solar do Lazer,Recife,274,2025-01-15,2025-01-22,0.5,None,None,2024-5-16
+Ótima Localização - Zona Norte - SEM TAXAS,Recife,1890,2025-01-15,2025-01-22,2.8,None,8.9,2024-5-16
+Requinte e sofisticação ao lado Jardim Botânico,Recife,1260,2025-01-15,2025-01-22,10.2,None,7.0,2024-5-16
+Rooftop #1402 - Studio em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+#403 Quádruplo em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,9.0,2024-5-16
+Pousada Flat Hotel em Casa Forte,Recife,1253,2025-01-15,2025-01-22,4.4,None,8.0,2024-5-16
+Suíte na beira mar da Praia de Piedade por Carpediem,Recife,1782,2025-01-15,2025-01-22,13.6,0.5,5.0,2024-5-16
+Flora Pousada,Recife,2035,2025-01-15,2025-01-22,0.45,2.9,None,2024-5-16
+Rooftop #1308 - Estúdio em Boa Viagem by Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,9.0,2024-5-16
+Rooftop #1405 - Suíte em Boa Viagem by Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+Rooftop #603 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,10.0,2024-5-16
+Rooftop#1101 - Luxo em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,None,None,2024-5-16
+Rooftop #704 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,10.0,2024-5-16
+Melhor local da zona norte Sem Taxas,Recife,2100,2025-01-15,2025-01-22,3.3,None,9.2,2024-5-16
+Beach Class Executive - Beira Mar Quádruplo,Recife,2741,2025-01-15,2025-01-22,4.2,0.0,None,2024-5-16
+Rooftop #306 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,8.4,2024-5-16
+Parque Shopping #2206 - Apartamento em Boa Viagem Housi por Carpediem,Recife,2316,2025-01-15,2025-01-22,3.5,0.9,None,2024-5-16
+Rooftop #605 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,9.3,2024-5-16
+Ótimo Flat Bairro da Jaqueira Recife até 3 pessoas O Bairro mais Verde da Cidade PBO902,Recife,1876,2025-01-15,2025-01-22,3.3,None,7.5,2024-5-16
+Parque Shopping #1304 - Apê conforto por Carpediem,Recife,2316,2025-01-15,2025-01-22,3.5,0.9,6.0,2024-5-16
+Paiva Home Stay - Bugan Paiva by Flatbpaiva,Recife,3825,2025-01-15,2025-01-22,19.6,0.0,8.5,2024-5-16
+Rooftop #807 - O Melhor de Boa Viagem by Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,8.5,2024-5-16
+Rooftop #108 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,9.0,2024-5-16
+Conforto e Localização,Recife,2142,2025-01-15,2025-01-22,8.9,None,4.0,2024-5-16
+Rooftop #706 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+Vista EXPLENDIDA MAR duplex na cobertura ilha do amor Barra Home Stay,Recife,2678,2025-01-15,2025-01-22,19.5,0.65,None,2024-5-16
+Apartamento ao lado da UFPE,Recife,1400,2025-01-15,2025-01-22,7.5,None,9.7,2024-5-16
+Rooftop #1105 - Suíte em Recife por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+Rooftop #1003 - Studio na Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+Flat vista mar Boa Viagem,Recife,2314,2025-01-15,2025-01-22,7.0,0.1,8.5,2024-5-16
+Rooftop #1306 - Apart em Boa Viagem Por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,8.0,2024-5-16
+Rooftop #107 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,9.0,2024-5-16
+Rooftop #501 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,8.5,2024-5-16
+Rooftop #806 - Apto em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,9.5,2024-5-16
+RoofTop #405 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,7.0,2024-5-16
+Rooftop #1006 - Studio na Praia por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,8.5,2024-5-16
+Flat 1203 BEIRA MAR no Barra Classic,Recife,2367,2025-01-15,2025-01-22,19.4,0.0,9.6,2024-5-16
+Kitnet recife carnaval 2024,Recife,1487,2025-01-15,2025-01-22,6.3,2.7,4.0,2024-5-16
+Edf: rubi,Recife,2678,2025-01-15,2025-01-22,1.5,None,10.0,2024-5-16
+Rooftop #606 - Studio em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+Praia de jangada 103 - barra de jangada recife,Recife,1809,2025-01-15,2025-01-22,20.0,1.5,8.2,2024-5-16
+Homes Stay #2307 - Flat em Recife por Carpediem,Recife,2741,2025-01-15,2025-01-22,8.7,0.35,None,2024-5-16
+Goldenland Home Service,Recife,2829,2025-01-15,2025-01-22,6.8,0.7,8.3,2024-5-16
+Meu Cantinho,Recife,2079,2025-01-15,2025-01-22,5.1,None,4.0,2024-5-16
+Apartamento 2 quartos 1km da Praia,Recife,3094,2025-01-15,2025-01-22,6.4,1.5,10.0,2024-5-16
+Casa no coração de Recife para Carnaval,Recife,2100,2025-01-15,2025-01-22,1.0,2.8,10.0,2024-5-16
+Transamerica Fit Recife- Flat mobiliado,Recife,2800,2025-01-15,2025-01-22,7.0,None,9.0,2024-5-16
+Flat Super Luxo - Boa Viagem,Recife,3010,2025-01-15,2025-01-22,6.4,0.55,None,2024-5-16
+Flat em Boa Viagem Rooftop 470 Conforto e Localização privilegiada,Recife,4536,2025-01-15,2025-01-22,6.4,0.55,9.4,2024-5-16
+Casa poucos metros do mar Cabo de Sto Agostinho,Recife,2457,2025-01-15,2025-01-22,14.8,0.0,None,2024-5-16
+Rooftop #504 - Suíte confortável na Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,5.0,2024-5-16
+Boa viagem vista mar 3qts,Recife,3500,2025-01-15,2025-01-22,8.5,0.45,9.0,2024-5-16
+Apt candeias,Recife,1714,2025-01-15,2025-01-22,16.7,0.55,None,2024-5-16
+Apartamento rústico e aconchegante,Recife,910,2025-01-15,2025-01-22,3.2,None,None,2024-5-16
+Rooftop 470 #607 - em Boa Viagem por Carpediem,Recife,2580,2025-01-15,2025-01-22,6.4,0.55,6.3,2024-5-16
+FLATS ROSARINHO PRINCE SPRING,Recife,3318,2025-01-15,2025-01-22,3.1,None,1.0,2024-5-16
+Lindo Apartamento Av. Boa Viagem. 2Qts. Cozinha completa,Recife,3479,2025-01-15,2025-01-22,4.0,0.1,10.0,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-15,2025-01-22,9.9,0.8,None,2024-5-16
+Apartamento aconchegante em Candeias,Recife,4335,2025-01-15,2025-01-22,16.8,0.0,9.7,2024-5-16
+FLAT IMPERIAL SUITES Boa Viagem,Recife,1874,2025-01-15,2025-01-22,7.2,None,None,2024-5-16
+EDF: RUBI 184,Recife,4123,2025-01-15,2025-01-22,1.5,None,8.0,2024-5-16
+Paiva Home Stay Aptº temporada,Recife,3920,2025-01-15,2025-01-22,14.9,0.0,7.9,2024-5-16
+Studio D'Roma em Boa Viagem,Recife,3780,2025-01-15,2025-01-22,7.7,0.6,8.5,2024-5-16
+Flet dona anesia,Recife,4284,2025-01-15,2025-01-22,9.3,0.1,None,2024-5-16
+Flat boa viagem 1,Recife,3749,2025-01-15,2025-01-22,7.8,0.65,7.0,2024-5-16
+Clube Vita #703 - Aconchego em Boa Viagem by Carpediem,Recife,4523,2025-01-15,2025-01-22,6.6,1.8,None,2024-5-16
+Seu lugar no Carnaval do Recife!,Recife,4788,2025-01-15,2025-01-22,0.45,2.1,None,2024-5-16
+Radisson Hotel ap 801,Recife,10115,2025-01-15,2025-01-22,5.7,0.15,None,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-15,2025-01-22,9.9,0.8,None,2024-5-16
+Edf: RUBI,Recife,4284,2025-01-15,2025-01-22,1.5,None,None,2024-5-16
+Novotel Recife Marina,Recife,8461,2025-01-15,2025-01-22,1.6,None,None,2024-5-16
+Apto Carnaval 2024 Ed Camilla,Recife,5600,2025-01-15,2025-01-22,4.8,None,None,2024-5-16
+CASA COMPACTA NO PRIVÊ COQUEIRAL COM GARAGEM,Recife,3570,2025-01-15,2025-01-22,17.4,1.1,None,2024-5-16
+Flat Beira Mar,Recife,14000,2025-01-15,2025-01-22,4.1,0.0,None,2024-5-16
+APTO mobiliado Candeias JBO/PE,Recife,619,2025-01-15,2025-01-22,18.1,1.2,8.0,2024-5-16
+Apartamento Beira Mar em Recife,Recife,9450,2025-01-15,2025-01-22,14.1,0.5,10.0,2024-5-16
+BV Paradiso,Recife,10064,2025-01-15,2025-01-22,5.6,0.0,10.0,2024-5-16
+FLAT MARULHOS MURO ALTO 02 Estr Ac p Praia de Muro Alto e Camboa,Recife,7140,2025-01-15,2025-01-22,43.7,0.0,None,2024-5-16
+Apto 3/4 Mobiliado em Recife Cond. CLUBE,Recife,9520,2025-01-15,2025-01-22,6.5,1.8,None,2024-5-16
+Apartamento Beira Mar em Recife,Recife,10950,2025-01-15,2025-01-22,14.1,0.5,None,2024-5-16
+apartamento,Recife,8033,2025-01-15,2025-01-22,10.1,None,None,2024-5-16
+Apduplex,Recife,13388,2025-01-15,2025-01-22,8.5,0.15,None,2024-5-16
+Apartamento suite na Avenida BoaViagem,Recife,1800,2025-01-15,2025-01-22,4.3,0.5,9.8,2024-5-16
+Paiva Home Stay - Vista dos Sonhos,Recife,2101,2025-01-15,2025-01-22,19.7,0.0,8.5,2024-5-16
+Flat Paiva Home Stay,Recife,1701,2025-01-15,2025-01-22,18.9,0.0,7.3,2024-5-16
+Flat frente mar no Transamérica Beach Class International,Recife,2466,2025-01-15,2025-01-22,4.3,0.0,None,2024-5-16
+Pousada Joãozinho Caminhador,Recife,1260,2025-01-15,2025-01-22,11.6,0.25,6.0,2024-5-16
+Apart Hotel Marinas Tamandaré,Recife,958,2025-01-15,2025-01-22,4.8,None,1.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1401,Recife,1533,2025-01-15,2025-01-22,1.7,None,7.7,2024-5-16
+flatpaivahome bugan paiva,Recife,1886,2025-01-15,2025-01-22,19.6,0.7,None,2024-5-16
+Apartamento Alice Tenório,Recife,1960,2025-01-15,2025-01-22,6.1,0.4,9.5,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1603,Recife,1533,2025-01-15,2025-01-22,1.7,None,7.5,2024-5-16
+Hosts BR - Frente Mar c/ cozinha,Recife,1626,2025-01-15,2025-01-22,19.5,0.0,10.0,2024-5-16
+Flat Super Aconchegante na Jaqueira com WI-FI e sem taxas,Recife,1960,2025-01-15,2025-01-22,3.3,None,10.0,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM805,Recife,1918,2025-01-15,2025-01-22,9.6,0.4,8.6,2024-5-16
+Quarto INDISPONÍVEL NO PRESENTE,Recife,1418,2025-01-15,2025-01-22,4.5,0.15,1.0,2024-5-16
+Apartamento/Flat Boa Viagem,Recife,2597,2025-01-15,2025-01-22,6.8,0.0,9.4,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1205,Recife,1533,2025-01-15,2025-01-22,1.7,None,6.8,2024-5-16
+Flat incrível 2 qtos Beach class conselheiro,Recife,1915,2025-01-15,2025-01-22,7.7,0.25,None,2024-5-16
+Hosts BR-Flat Fit Transamérica Boa Viagem s/ taxa,Recife,1971,2025-01-15,2025-01-22,7.0,0.65,8.6,2024-5-16
+BOA VIAGEM PROX AO MAR,Recife,1785,2025-01-15,2025-01-22,8.9,0.45,8.5,2024-5-16
+Hosts BR - Flats Frente Mar c/ Cozinha,Recife,1626,2025-01-15,2025-01-22,17.5,None,None,2024-5-16
+Hosts BR - Estúdio em Boa Viagem(s/taxas),Recife,1684,2025-01-15,2025-01-22,7.8,0.9,7.9,2024-5-16
+Flat em Boa Viagem,Recife,2673,2025-01-15,2025-01-22,7.0,0.7,None,2024-5-16
+Flat Barra home stay 2202,Recife,2520,2025-01-15,2025-01-22,19.6,0.7,9.7,2024-5-16
+Excelente 3 Quartos Rua Navegantes em Boa Viagem No melhor local da praia SAL802,Recife,3570,2025-01-15,2025-01-22,6.1,0.15,9.1,2024-5-16
+Mercure Navegantes Recife Hotel,Recife,2419,2025-01-15,2025-01-22,7.0,None,None,2024-5-16
+apto na quadra do mar,Recife,2835,2025-01-15,2025-01-22,14.5,0.25,8.0,2024-5-16
+Cosmeflats,Recife,2100,2025-01-15,2025-01-22,19.6,0.75,4.4,2024-5-16
+Apto a beira-mar em Jaboatao dos Guararapes PE,Recife,3062,2025-01-15,2025-01-22,19.4,0.6,9.0,2024-5-16
+Apt novíssimo Tamarineira,Recife,3780,2025-01-15,2025-01-22,4.1,None,10.0,2024-5-16
+Flat no melhor lugar de boa viagem,Recife,4543,2025-01-15,2025-01-22,4.5,0.2,10.0,2024-5-16
+Hostel da Socorro,Recife,2835,2025-01-15,2025-01-22,9.0,0.9,1.0,2024-5-16
+Lindo apto à beira-mar Jaboatão dos Guararapes - PE,Recife,3775,2025-01-15,2025-01-22,16.6,0.5,7.0,2024-5-16
+Incrivel apto em frente a Praia de Piedade PE,Recife,3847,2025-01-15,2025-01-22,13.2,0.0,6.0,2024-5-16
+Aconchego Boa Viagem,Recife,4032,2025-01-15,2025-01-22,8.4,None,None,2024-5-16
+Golden home service,Recife,7013,2025-01-15,2025-01-22,7.0,0.6,10.0,2024-5-16
+RESERVA DO PAIVA - A MELHOR CASA PARA TEMPORADA,Recife,10121,2025-01-15,2025-01-22,26.6,0.0,8.4,2024-5-16
+Cond Clube em Piedade noCarnaval,Recife,11246,2025-01-15,2025-01-22,15.7,1.0,None,2024-5-16
+FLAT PRAIA DOS CARNEIROS / TAMANDARÉ 06 TÉRREO,Recife,14000,2025-01-15,2025-01-22,78.2,0.1,10.0,2024-5-16
+Veja o mar no silêncio do centro! Hospede-se no quarto,Recife,428,2025-01-22,2025-01-29,0.2,2.5,8.3,2024-5-16
+Lindo APT Azul a 50 metros do mar - Praia de Boa Viagem,Recife,750,2025-01-22,2025-01-29,5.8,None,10.0,2024-5-16
+Lindo APT Cinza à 50m do mar - Praia de Boa Viagem,Recife,838,2025-01-22,2025-01-29,5.8,None,10.0,2024-5-16
+Hotel Dan Inn Mar Piedade - Grande Recife,Recife,2101,2025-01-22,2025-01-29,13.7,0.0,7.8,2024-5-16
+Dublê Hotel - The Original,Recife,1870,2025-01-22,2025-01-29,6.5,0.15,7.7,2024-5-16
+Villa d'Oro Hotel,Recife,2136,2025-01-22,2025-01-29,1.4,2.9,8.6,2024-5-16
+'"Apartamento EXCLUSIVO - Novo com 2 Quartos Climatizados Suíte Varanda Piscina e Academia - Vaga na garagem TV de 70'' Localização Premium ao Lado do Shopping Rio Mar - Inclui Enxoval Completo e Mimos!'",Recife,1245,2025-01-22,2025-01-29,3.5,1.0,9.9,2024-5-16
+Belo Flat à beira mar,Recife,1250,2025-01-22,2025-01-29,10.2,0.0,9.4,2024-5-16
+Transamerica Fit Recife,Recife,2426,2025-01-22,2025-01-29,7.0,0.65,8.2,2024-5-16
+ibis Recife Boa Viagem,Recife,2048,2025-01-22,2025-01-29,4.4,0.35,8.0,2024-5-16
+Kastel Manibu Recife - Boa Viagem,Recife,2911,2025-01-22,2025-01-29,4.7,0.25,8.4,2024-5-16
+Rede Andrade LG Inn,Recife,1827,2025-01-22,2025-01-29,6.8,0.25,7.7,2024-5-16
+Rede Andrade Plaza Recife,Recife,1670,2025-01-22,2025-01-29,0.6,3.0,7.0,2024-5-16
+Radisson Recife,Recife,4998,2025-01-22,2025-01-29,5.7,0.0,8.8,2024-5-16
+Hotel Enseada Boa Viagem,Recife,1863,2025-01-22,2025-01-29,8.6,0.6,7.5,2024-5-16
+Marante Plaza Hotel,Recife,2800,2025-01-22,2025-01-29,5.0,0.0,8.3,2024-5-16
+Oxen Hostel 2024,Recife,226,2025-01-22,2025-01-29,0.45,None,6.0,2024-5-16
+Ramon Hostel Bar,Recife,380,2025-01-22,2025-01-29,8.5,0.45,7.8,2024-5-16
+APARTAMENTO PROXIMO À UFPE,Recife,964,2025-01-22,2025-01-29,8.4,None,9.1,2024-5-16
+APARTAMENTO à 50 m do MAR - Praia de BOA VIAGEM,Recife,939,2025-01-22,2025-01-29,5.8,0.25,8.8,2024-5-16
+AMPLA e CONFORTÁVEL SUITE - BAIRRO DO ESPINHEIRO - RECIFE,Recife,1273,2025-01-22,2025-01-29,1.6,None,9.6,2024-5-16
+Hotel Atlante Plaza,Recife,4136,2025-01-22,2025-01-29,9.2,0.0,8.8,2024-5-16
+Apartamentos a 2 min. da Praia localização exclusiva,Recife,1180,2025-01-22,2025-01-29,5.8,0.25,9.1,2024-5-16
+Flat Beach Class Executive,Recife,1066,2025-01-22,2025-01-29,4.3,0.0,None,2024-5-16
+Lê'Frevo Pernambucano Hostel,Recife,298,2025-01-22,2025-01-29,0.6,3.0,7.5,2024-5-16
+Studio com varanda - Melhor localização do Arruda,Recife,682,2025-01-22,2025-01-29,3.6,None,9.0,2024-5-16
+Costa Mar Recife Hotel by Atlantica,Recife,2778,2025-01-22,2025-01-29,13.6,0.0,7.5,2024-5-16
+Fity Hotel,Recife,2737,2025-01-22,2025-01-29,7.3,0.25,8.7,2024-5-16
+BOA VIAGEM - FLAT ROOFTOP ALTO PADRÃO,Recife,2142,2025-01-22,2025-01-29,6.4,0.55,9.8,2024-5-16
+Apartamento Beira Mar Boa Viagem,Recife,1336,2025-01-22,2025-01-29,5.7,0.5,8.5,2024-5-16
+Rede Andrade Onda Mar,Recife,1575,2025-01-22,2025-01-29,7.8,0.3,7.0,2024-5-16
+Grand Mercure Recife Boa Viagem,Recife,3052,2025-01-22,2025-01-29,7.8,0.0,7.8,2024-5-16
+Beira-mar Boa Viagem - Costa Vicentina by Bnb Flex,Recife,1625,2025-01-22,2025-01-29,10.2,0.5,8.6,2024-5-16
+Duplex,Recife,714,2025-01-22,2025-01-29,0.7,None,9.5,2024-5-16
+Lindo apartamento a 350m do mar!,Recife,1190,2025-01-22,2025-01-29,14.1,None,10.0,2024-5-16
+Praticidade,Recife,643,2025-01-22,2025-01-29,5.2,None,8.4,2024-5-16
+Hotel Enseada Aeroporto,Recife,1565,2025-01-22,2025-01-29,9.7,0.75,7.5,2024-5-16
+Mercure Recife Navegantes,Recife,2249,2025-01-22,2025-01-29,7.0,0.1,7.2,2024-5-16
+Transamerica Prestige Recife - Boa Viagem,Recife,3249,2025-01-22,2025-01-29,4.3,0.0,8.4,2024-5-16
+Hotel Jangadeiro,Recife,3374,2025-01-22,2025-01-29,6.9,0.5,7.8,2024-5-16
+Hotel Golden Park Recife Boa Viagem,Recife,2632,2025-01-22,2025-01-29,9.3,0.0,7.5,2024-5-16
+BEIRA MAR- FLAT EXECUTIVE,Recife,2424,2025-01-22,2025-01-29,4.2,0.0,9.3,2024-5-16
+TOLIVE One Housi Recife by Carpediem,Recife,1720,2025-01-22,2025-01-29,1.4,None,8.4,2024-5-16
+Park Hotel,Recife,2659,2025-01-22,2025-01-29,8.6,0.1,8.5,2024-5-16
+Flat Refugio! Vista deslumbrante! Frente-mar,Recife,1008,2025-01-22,2025-01-29,14.3,0.0,8.2,2024-5-16
+Roomo Praia de Boa Viagem Residencial,Recife,2772,2025-01-22,2025-01-29,8.7,0.35,8.0,2024-5-16
+Hotel Nacional Inn Recife Aeroporto,Recife,2306,2025-01-22,2025-01-29,8.0,1.2,7.1,2024-5-16
+Bugan Recife Boa Viagem Hotel - by Atlantica,Recife,5042,2025-01-22,2025-01-29,8.3,0.35,9.1,2024-5-16
+Flat Novo e Moderno a 200m do Shopping  com Piscina wifii 500mbps,Recife,2104,2025-01-22,2025-01-29,7.9,1.1,9.8,2024-5-16
+Hotel Euro Suíte Recife Boa Viagem,Recife,3814,2025-01-22,2025-01-29,8.1,0.5,7.8,2024-5-16
+Flat Recife - Boa Viagem,Recife,2213,2025-01-22,2025-01-29,7.0,0.0,8.2,2024-5-16
+SUITE e QUARTOS -1 SUITE COM BANHEIRO PRIVATIVO - 2 QUARTOS DUPLOS COM BANHEIRO COMPARTILHADO,Recife,1410,2025-01-22,2025-01-29,3.4,None,9.3,2024-5-16
+Qto Duplo próximo ao Shopping Recife,Recife,625,2025-01-22,2025-01-29,8.1,None,10.0,2024-5-16
+Apartamento boa viagem,Recife,1314,2025-01-22,2025-01-29,5.2,None,None,2024-5-16
+Bonito é ser Feliz,Recife,714,2025-01-22,2025-01-29,4.8,None,9.7,2024-5-16
+Studio Portal dos Corais apartamento 1003,Recife,2205,2025-01-22,2025-01-29,5.6,0.1,8.4,2024-5-16
+Lindo Apartamento com piscina - Beira Mar,Recife,1750,2025-01-22,2025-01-29,5.7,0.0,8.9,2024-5-16
+NovoHotell Recife,Recife,2480,2025-01-22,2025-01-29,1.5,None,8.1,2024-5-16
+Flat Edf Golden Beach,Recife,2744,2025-01-22,2025-01-29,14.2,0.0,8.5,2024-5-16
+Apart Hotel Beach Class HÔM - 1902,Recife,1618,2025-01-22,2025-01-29,6.6,None,10.0,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM802,Recife,1708,2025-01-22,2025-01-29,9.6,0.4,9.2,2024-5-16
+Duplex,Recife,714,2025-01-22,2025-01-29,0.7,None,None,2024-5-16
+Excelente Flat em Boa Viagem 2 quartos Beach Class Ideal para Família ou Negócios NOB2105,Recife,2730,2025-01-22,2025-01-29,6.6,0.8,8.9,2024-5-16
+Beira-Mar Boa Viagem - Ivone Asfora by Bnb Flex,Recife,1695,2025-01-22,2025-01-29,9.5,0.5,8.6,2024-5-16
+Mangue Oranje Hostel,Recife,1330,2025-01-22,2025-01-29,1.3,2.8,7.7,2024-5-16
+Mar Hotel Conventions,Recife,3374,2025-01-22,2025-01-29,8.7,0.5,8.6,2024-5-16
+Hotel Fit transamérica,Recife,1701,2025-01-22,2025-01-29,7.0,None,10.0,2024-5-16
+Flat para 4 pessoas em Boa Viagem com Piscina Wifi 500Mbps localizado a 350 metros da Praia,Recife,1882,2025-01-22,2025-01-29,6.5,0.0,9.5,2024-5-16
+Parque Shopping #2001 - Apartamento Aconchegante em Boa Viagem por Carpediem,Recife,3270,2025-01-22,2025-01-29,3.5,0.9,9.8,2024-5-16
+Betel Beach Flat Internacional Boa Viagem,Recife,3850,2025-01-22,2025-01-29,4.3,0.0,7.7,2024-5-16
+Flat Beach Class Executive,Recife,2520,2025-01-22,2025-01-29,4.3,0.0,7.9,2024-5-16
+Aconchegante Flat na Orla,Recife,1060,2025-01-22,2025-01-29,14.2,0.0,8.0,2024-5-16
+Stay Residence - CASA COMPARTILHADA,Recife,504,2025-01-22,2025-01-29,1.0,None,6.7,2024-5-16
+Studio Piedade,Recife,1017,2025-01-22,2025-01-29,14.9,0.65,7.8,2024-5-16
+Kitnet na Boa Vista Recife - 508,Recife,1279,2025-01-22,2025-01-29,1.2,None,9.1,2024-5-16
+Flat do lado Shopping Boa Vista,Recife,809,2025-01-22,2025-01-29,0.7,None,1.0,2024-5-16
+Studio novo e equipado em Boa Viagem Rooftop #1004,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,8.7,2024-5-16
+Beach Class Executive,Recife,1369,2025-01-22,2025-01-29,4.2,0.1,None,2024-5-16
+Extraordinary Seafront Apartment,Recife,3928,2025-01-22,2025-01-29,6.8,0.0,9.8,2024-5-16
+Pousada Nordestina,Recife,1260,2025-01-22,2025-01-29,14.1,0.2,7.4,2024-5-16
+Pousada Solar do Lazer,Recife,268,2025-01-22,2025-01-29,0.5,None,None,2024-5-16
+Espaço rústico e aconchegante 1,Recife,600,2025-01-22,2025-01-29,3.2,None,None,2024-5-16
+Aram Beach Boa Viagem,Recife,2719,2025-01-22,2025-01-29,8.2,0.1,7.6,2024-5-16
+Condomínio Navegantes Residence Hotel,Recife,1333,2025-01-22,2025-01-29,7.0,0.1,7.5,2024-5-16
+Flat/Boa Viagem - Wi-Fi 400mbps,Recife,1642,2025-01-22,2025-01-29,6.2,0.85,9.8,2024-5-16
+Flat localizado a 200m Shopping Recife bem Perto da Praia de Boa Viagem e com Wi-Fi 400Mbps,Recife,1891,2025-01-22,2025-01-29,7.8,0.9,9.1,2024-5-16
+Loft Portal Beach,Recife,714,2025-01-22,2025-01-29,3.6,0.25,6.5,2024-5-16
+Flat mobiliado na rua da Aurora,Recife,900,2025-01-22,2025-01-29,0.45,None,6.5,2024-5-16
+Hostel Brasil Recife,Recife,347,2025-01-22,2025-01-29,7.5,None,9.0,2024-5-16
+Hotel das Fronteiras,Recife,1120,2025-01-22,2025-01-29,1.7,None,4.6,2024-5-16
+Lindo apartamento na beira-mar de Boa Viagem,Recife,1260,2025-01-22,2025-01-29,4.7,0.0,9.4,2024-5-16
+Av boa viagem 618,Recife,762,2025-01-22,2025-01-29,4.5,0.1,None,2024-5-16
+Flat 507 - Rooftop Boa Viagem,Recife,1260,2025-01-22,2025-01-29,6.4,0.55,7.8,2024-5-16
+quintal293,Recife,1260,2025-01-22,2025-01-29,0.4,2.2,9.9,2024-5-16
+Flat Boa Viagem,Recife,1178,2025-01-22,2025-01-29,9.3,0.1,9.5,2024-5-16
+Hosts BR - Studio Funcional em Boa Viagem(s/taxas),Recife,1721,2025-01-22,2025-01-29,6.2,0.85,8.7,2024-5-16
+Flat Beach Barra - Praia do Paiva - Ilha do amor,Recife,1640,2025-01-22,2025-01-29,19.5,0.0,8.7,2024-5-16
+Flat Recife/Paiva Beira Mar Frente p/ Ilha do Amor,Recife,1523,2025-01-22,2025-01-29,19.2,0.0,9.1,2024-5-16
+Rede Andrade Vela Branca,Recife,1705,2025-01-22,2025-01-29,8.3,0.35,6.6,2024-5-16
+Flat Quarto e Sala 400 metros da Praia de Boa Viagem com Piscina Wi-Fi 220Mbps,Recife,1939,2025-01-22,2025-01-29,6.2,0.0,8.4,2024-5-16
+Studio 51 residence,Recife,801,2025-01-22,2025-01-29,15.5,0.1,7.8,2024-5-16
+Beira mar Flat Golden Beach Piedade,Recife,1190,2025-01-22,2025-01-29,14.3,0.0,9.3,2024-5-16
+Paiva (Barra Home Stay) Luxuoso - vista incrível 26 andar,Recife,1389,2025-01-22,2025-01-29,19.5,0.0,9.5,2024-5-16
+Hosts BR - Flat frente mar c/ cozinha(sem taxas),Recife,2219,2025-01-22,2025-01-29,18.4,0.0,8.4,2024-5-16
+Flat em Boa Viagem 100% Equipado,Recife,2380,2025-01-22,2025-01-29,6.4,0.55,9.9,2024-5-16
+O melhor e mais completo de boa viagem,Recife,1560,2025-01-22,2025-01-29,7.3,0.25,8.9,2024-5-16
+Perto do Chevrolet Hall,Recife,714,2025-01-22,2025-01-29,3.3,None,10.0,2024-5-16
+Hosts BR - Flat Beach Class Boa Viagem (sem taxas),Recife,2165,2025-01-22,2025-01-29,6.6,0.8,8.8,2024-5-16
+Aurora Recife Hostel,Recife,1176,2025-01-22,2025-01-29,1.1,None,None,2024-5-16
+Boa Viagem Beach Flat apt 304,Recife,1197,2025-01-22,2025-01-29,8.7,0.2,None,2024-5-16
+Aconchegante ótima localização e vista para o mar,Recife,1922,2025-01-22,2025-01-29,0.3,2.6,8.3,2024-5-16
+Apartamento no Coração de Recife 3 Centro,Recife,961,2025-01-22,2025-01-29,0.45,2.9,10.0,2024-5-16
+Excelente Flat em Boa Viagem 2 quartos Beach Class Ideal para Família ou Viagens de Negócio NOB1804,Recife,2730,2025-01-22,2025-01-29,6.6,0.8,9.5,2024-5-16
+VISTA MAR BOA VIAGEM - BEACH CLASS EXECUTIVE,Recife,2680,2025-01-22,2025-01-29,4.2,0.0,9.6,2024-5-16
+Edifício Califórnia,Recife,704,2025-01-22,2025-01-29,5.4,None,None,2024-5-16
+Flat a 100 metros da praia - Bairro de Boa Viagem,Recife,1178,2025-01-22,2025-01-29,10.2,None,None,2024-5-16
+Beach Class Boa Viagem - Apartamento em Hotel Transamerica 5 Estrelas Vista para o Mar,Recife,2023,2025-01-22,2025-01-29,4.3,None,None,2024-5-16
+Apto em boa viagem novo e lindo,Recife,1575,2025-01-22,2025-01-29,10.0,None,10.0,2024-5-16
+Kitnet na Boa Vista Recife - 1203,Recife,1279,2025-01-22,2025-01-29,1.2,None,9.5,2024-5-16
+Flat luxo Studio Everest ap 1403,Recife,1666,2025-01-22,2025-01-29,4.7,0.15,8.7,2024-5-16
+Meu flat no coração de Recife,Recife,1411,2025-01-22,2025-01-29,3.5,0.9,10.0,2024-5-16
+Rooftop.470 em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,7.8,2024-5-16
+Apart hotel c WiFi prox a Praia de Boa Viagem PE,Recife,4093,2025-01-22,2025-01-29,6.6,0.55,8.1,2024-5-16
+STAY POUSADA,Recife,798,2025-01-22,2025-01-29,1.4,None,6.9,2024-5-16
+Flat Beira Mar Recife - Praia de Piedade,Recife,4480,2025-01-22,2025-01-29,12.5,0.0,9.1,2024-5-16
+BlubellaRecife,Recife,941,2025-01-22,2025-01-29,7.7,None,None,2024-5-16
+Moradia dos sonhos 30 m da praia,Recife,1180,2025-01-22,2025-01-29,7.9,None,None,2024-5-16
+Flat na Praia em HOTEL DE LUXO (1001),Recife,1785,2025-01-22,2025-01-29,4.3,0.15,10.0,2024-5-16
+Espaço inteiro a beira mar,Recife,1142,2025-01-22,2025-01-29,7.0,None,None,2024-5-16
+Hospede-se próximo ao Aeroporto Internacional dos Guararapes em Recife - Rua Esdras Farias  15B,Recife,536,2025-01-22,2025-01-29,7.0,None,10.0,2024-5-16
+Apartamento próximo ao aeroporto e praia,Recife,809,2025-01-22,2025-01-29,9.0,0.9,5.3,2024-5-16
+Charmoso e Aconchegante,Recife,1960,2025-01-22,2025-01-29,7.3,0.5,9.5,2024-5-16
+Residencial D'itália "Praia de Piedade com garagem",Recife,1363,2025-01-22,2025-01-29,15.6,0.0,8.3,2024-5-16
+Eclipse Motel,Recife,774,2025-01-22,2025-01-29,6.5,None,6.1,2024-5-16
+boa viagem vista mar,Recife,2450,2025-01-22,2025-01-29,8.7,0.35,9.7,2024-5-16
+Paiva home stay,Recife,1339,2025-01-22,2025-01-29,18.9,None,None,2024-5-16
+Casa com piscina aconchegante 300 m do mar,Recife,1856,2025-01-22,2025-01-29,12.6,0.4,5.5,2024-5-16
+Flat - Boa viagem- Recife - Poucos metros da praia,Recife,1575,2025-01-22,2025-01-29,10.2,0.5,9.5,2024-5-16
+Flat no Mercure Navegantes,Recife,1097,2025-01-22,2025-01-29,7.0,None,None,2024-5-16
+Flat Beira Mar Beach Class,Recife,2447,2025-01-22,2025-01-29,4.3,0.1,6.0,2024-5-16
+Kitnet 1102 - Apartamento para temporada,Recife,1279,2025-01-22,2025-01-29,1.2,None,8.8,2024-5-16
+ibis Recife Aeroporto,Recife,2255,2025-01-22,2025-01-29,9.2,1.6,8.3,2024-5-16
+RoofTop #601 - Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,10.0,2024-5-16
+Acero'Lar,Recife,357,2025-01-22,2025-01-29,0.5,2.9,1.0,2024-5-16
+Apt 2 quartos com varanda próximo Praça Casa Forte o bairro mais agradável do Recife ARN901,Recife,1757,2025-01-22,2025-01-29,5.2,None,9.3,2024-5-16
+Seu lar no melhor de Recife - Boa Viagem.,Recife,1470,2025-01-22,2025-01-29,8.5,1.1,None,2024-5-16
+Condomínio Ibiza #703 - Apartamento na Praia de Candeias por Carpediem,Recife,1459,2025-01-22,2025-01-29,15.7,0.15,7.4,2024-5-16
+QUARTO ARCO-ÍRES-TRIPLO CONFORTO E PRIVACIDADE- Bairro do Espinheiro -RECIFE- PERNAMBUCO,Recife,1142,2025-01-22,2025-01-29,1.9,None,None,2024-5-16
+Hostel Alvorada,Recife,506,2025-01-22,2025-01-29,8.4,None,1.5,2024-5-16
+Flat Navegantes Residence - Mar,Recife,2094,2025-01-22,2025-01-29,7.0,0.1,10.0,2024-5-16
+Flet boa viagem,Recife,1190,2025-01-22,2025-01-29,9.3,0.1,1.0,2024-5-16
+Flat no Coração de Boa Viagem,Recife,1351,2025-01-22,2025-01-29,8.0,1.1,3.0,2024-5-16
+Apartamento na melhor localização de Recife,Recife,884,2025-01-22,2025-01-29,3.6,None,4.0,2024-5-16
+Flat Radisson Recife,Recife,3822,2025-01-22,2025-01-29,5.7,0.0,9.3,2024-5-16
+Cantinho especial de Piedade,Recife,1130,2025-01-22,2025-01-29,15.6,0.95,10.0,2024-5-16
+Lindo apartamento em Recife,Recife,1017,2025-01-22,2025-01-29,3.6,None,1.0,2024-5-16
+Marbelo Pernambuco Hostel,Recife,1637,2025-01-22,2025-01-29,0.4,2.8,8.5,2024-5-16
+Piscina no Rooftop! Exclusivo ''Apartamento Compacto com Design Moderno e Infraestrutura Completa em Boa viagem - Estacionamento e Portaria 24h! Roupas de Cama Toalhas e mimos inclusos!'',Recife,2416,2025-01-22,2025-01-29,6.2,0.8,9.3,2024-5-16
+Requinte e sofisticação ao lado Jardim Botânico,Recife,1260,2025-01-22,2025-01-29,10.2,None,7.0,2024-5-16
+Apartamento e Suítes Mobiliada Climatizada Campo Grande,Recife,1553,2025-01-22,2025-01-29,2.6,1.4,9.0,2024-5-16
+Aconchego e Conveniência - Apartamento para 2pessoas a 2min da Praia de Boa viagem - 1 Quarto com Ar-Condicionado - Wi-Fi e Mobilia COMPLETA '' Localização Privilegiada com Custo-Beneficio Imbatível em Recife!'' -Promoção Exclusiva-,Recife,1687,2025-01-22,2025-01-29,5.8,0.25,8.2,2024-5-16
+Beach Class #3506 - Suíte Confortável by Carpediem,Recife,1784,2025-01-22,2025-01-29,1.7,None,8.0,2024-5-16
+Kitnet 1 quarto com banheiro carnaval recife  condomínio fechado,Recife,1339,2025-01-22,2025-01-29,6.3,2.7,None,2024-5-16
+No coração de Boa Viagem,Recife,2205,2025-01-22,2025-01-29,8.2,0.15,9.3,2024-5-16
+Rooftop #401 - Loft em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,10.0,2024-5-16
+Pousada Praia Boa Viagem,Recife,1663,2025-01-22,2025-01-29,8.5,0.15,8.0,2024-5-16
+Flats Mobiliados Zona Norte Casa forte recife Aluguel por temporada Direto com o dono,Recife,1603,2025-01-22,2025-01-29,3.6,None,8.0,2024-5-16
+Mercure #508 - Apê em Boa Viagem por Carpediem,Recife,2378,2025-01-22,2025-01-29,7.0,0.1,None,2024-5-16
+Pousada Flat Hotel em Casa Forte,Recife,1253,2025-01-22,2025-01-29,4.4,None,8.0,2024-5-16
+Excelente localização na zona norte - Sem Taxas,Recife,2100,2025-01-22,2025-01-29,4.2,None,9.5,2024-5-16
+Ótima Localização - Zona Norte - SEM TAXAS,Recife,1890,2025-01-22,2025-01-29,2.8,None,8.9,2024-5-16
+Studio moderno em Boa viagem -Zona SUL todo mobiliado - SEM TAXAS,Recife,2100,2025-01-22,2025-01-29,7.9,0.9,10.0,2024-5-16
+Kitnet com hidromassagem boa viagem,Recife,1151,2025-01-22,2025-01-29,6.1,2.7,3.0,2024-5-16
+Rooftop #705 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,10.0,2024-5-16
+Rooftop #1402 - Studio em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+#403 Quádruplo em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,9.0,2024-5-16
+Flora Pousada,Recife,2035,2025-01-22,2025-01-29,0.45,2.9,None,2024-5-16
+Rooftop #1308 - Estúdio em Boa Viagem by Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,9.0,2024-5-16
+Rooftop #603 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,10.0,2024-5-16
+Rooftop #1405 - Suíte em Boa Viagem by Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+Suíte na beira mar da Praia de Piedade por Carpediem,Recife,1932,2025-01-22,2025-01-29,13.6,0.5,5.0,2024-5-16
+Melhor local da zona norte Sem Taxas,Recife,2100,2025-01-22,2025-01-29,3.3,None,9.2,2024-5-16
+Rooftop#1101 - Luxo em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,None,None,2024-5-16
+Rooftop #704 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,10.0,2024-5-16
+Paiva Home Stay - Bugan Paiva by Flatbpaiva,Recife,3825,2025-01-22,2025-01-29,19.6,0.0,8.5,2024-5-16
+Rooftop #306 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,8.4,2024-5-16
+Flat vista mar Boa Viagem,Recife,2234,2025-01-22,2025-01-29,7.0,0.1,8.5,2024-5-16
+Vista EXPLENDIDA MAR duplex na cobertura ilha do amor Barra Home Stay,Recife,2678,2025-01-22,2025-01-29,19.5,0.65,None,2024-5-16
+Beach Class Executive - Beira Mar Quádruplo,Recife,2973,2025-01-22,2025-01-29,4.2,0.0,None,2024-5-16
+Rooftop #807 - O Melhor de Boa Viagem by Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,8.5,2024-5-16
+Rooftop #605 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,9.3,2024-5-16
+Rooftop #108 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,9.0,2024-5-16
+Rooftop #706 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+Rooftop #1105 - Suíte em Recife por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+Apartamento ao lado da UFPE,Recife,1400,2025-01-22,2025-01-29,7.5,None,9.7,2024-5-16
+Parque Shopping #2206 - Apartamento em Boa Viagem Housi por Carpediem,Recife,2512,2025-01-22,2025-01-29,3.5,0.9,None,2024-5-16
+Flat 1203 BEIRA MAR no Barra Classic,Recife,2140,2025-01-22,2025-01-29,19.4,0.0,9.6,2024-5-16
+Rooftop #1003 - Studio na Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+Paiva Home Stay - Vista dos Sonhos,Recife,2101,2025-01-22,2025-01-29,19.7,0.0,8.5,2024-5-16
+Rooftop #1306 - Apart em Boa Viagem Por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,8.0,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1703,Recife,1533,2025-01-22,2025-01-29,1.7,None,8.7,2024-5-16
+Rooftop #107 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,9.0,2024-5-16
+Rooftop #501 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,8.5,2024-5-16
+Rooftop #806 - Apto em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,9.5,2024-5-16
+Parque Shopping #1304 - Apê conforto por Carpediem,Recife,2512,2025-01-22,2025-01-29,3.5,0.9,6.0,2024-5-16
+Rooftop #1006 - Studio na Praia por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,8.5,2024-5-16
+RoofTop #405 - Suíte em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,7.0,2024-5-16
+Kitnet recife carnaval 2024,Recife,1487,2025-01-22,2025-01-29,6.3,2.7,4.0,2024-5-16
+Edf: rubi,Recife,2678,2025-01-22,2025-01-29,1.5,None,10.0,2024-5-16
+Rooftop #606 - Studio em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+Praia de jangada 103 - barra de jangada recife,Recife,1809,2025-01-22,2025-01-29,20.0,1.5,8.2,2024-5-16
+Goldenland Home Service,Recife,2829,2025-01-22,2025-01-29,6.8,0.7,8.3,2024-5-16
+Meu Cantinho,Recife,2079,2025-01-22,2025-01-29,5.1,None,4.0,2024-5-16
+Apartamento 2 quartos 1km da Praia,Recife,3094,2025-01-22,2025-01-29,6.4,1.5,10.0,2024-5-16
+Marbelo Pernambuco,Recife,1714,2025-01-22,2025-01-29,0.4,2.8,4.5,2024-5-16
+Flat Super Luxo - Boa Viagem,Recife,3010,2025-01-22,2025-01-29,6.4,0.55,None,2024-5-16
+Conforto e Localização,Recife,2142,2025-01-22,2025-01-29,8.9,None,4.0,2024-5-16
+Casa no coração de Recife para Carnaval,Recife,2100,2025-01-22,2025-01-29,1.0,2.8,10.0,2024-5-16
+Flat em Boa Viagem Rooftop 470 Conforto e Localização privilegiada,Recife,4536,2025-01-22,2025-01-29,6.4,0.55,9.4,2024-5-16
+Transamerica Fit Recife- Flat mobiliado,Recife,2800,2025-01-22,2025-01-29,7.0,None,9.0,2024-5-16
+Apartamento mobiliado e confortável em candeias,Recife,4522,2025-01-22,2025-01-29,16.8,0.0,9.5,2024-5-16
+Casa poucos metros do mar Cabo de Sto Agostinho,Recife,2457,2025-01-22,2025-01-29,14.8,0.0,None,2024-5-16
+Rooftop #504 - Suíte confortável na Praia de Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,5.0,2024-5-16
+Apartamento rústico e aconchegante,Recife,910,2025-01-22,2025-01-29,3.2,None,None,2024-5-16
+Apt candeias,Recife,1714,2025-01-22,2025-01-29,16.7,0.55,None,2024-5-16
+Boa viagem vista mar 3qts,Recife,3500,2025-01-22,2025-01-29,8.5,0.45,9.0,2024-5-16
+Rooftop 470 #607 - em Boa Viagem por Carpediem,Recife,2580,2025-01-22,2025-01-29,6.4,0.55,6.3,2024-5-16
+FLATS ROSARINHO PRINCE SPRING,Recife,3318,2025-01-22,2025-01-29,3.1,None,1.0,2024-5-16
+Lindo Apartamento Av. Boa Viagem. 2Qts. Cozinha completa,Recife,3479,2025-01-22,2025-01-29,4.0,0.1,10.0,2024-5-16
+FLAT IMPERIAL SUITES Boa Viagem,Recife,1874,2025-01-22,2025-01-29,7.2,None,None,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-22,2025-01-29,9.9,0.8,None,2024-5-16
+EDF: RUBI 184,Recife,4123,2025-01-22,2025-01-29,1.5,None,8.0,2024-5-16
+Paiva Home Stay Aptº temporada,Recife,3920,2025-01-22,2025-01-29,14.9,0.0,7.9,2024-5-16
+Studio D'Roma em Boa Viagem,Recife,3780,2025-01-22,2025-01-29,7.7,0.6,8.5,2024-5-16
+Flet dona anesia,Recife,4284,2025-01-22,2025-01-29,9.3,0.1,None,2024-5-16
+Apartamento aconchegante em Candeias,Recife,4760,2025-01-22,2025-01-29,16.8,0.0,9.7,2024-5-16
+Radisson Hotel ap 801,Recife,10115,2025-01-22,2025-01-29,5.7,0.15,None,2024-5-16
+Flat boa viagem 1,Recife,3749,2025-01-22,2025-01-29,7.8,0.65,7.0,2024-5-16
+Flat em Boa Viagem,Recife,4760,2025-01-22,2025-01-29,9.9,0.8,None,2024-5-16
+Edf: RUBI,Recife,4284,2025-01-22,2025-01-29,1.5,None,None,2024-5-16
+Clube Vita #703 - Aconchego em Boa Viagem by Carpediem,Recife,4905,2025-01-22,2025-01-29,6.6,1.8,None,2024-5-16
+Novotel Recife Marina,Recife,8461,2025-01-22,2025-01-29,1.6,None,None,2024-5-16
+CASA COMPACTA NO PRIVÊ COQUEIRAL COM GARAGEM,Recife,3570,2025-01-22,2025-01-29,17.4,1.1,None,2024-5-16
+Apto Carnaval 2024 Ed Camilla,Recife,5600,2025-01-22,2025-01-29,4.8,None,None,2024-5-16
+Flat Beira Mar,Recife,14000,2025-01-22,2025-01-29,4.1,0.0,None,2024-5-16
+Apartamento Beira Mar em Recife,Recife,9450,2025-01-22,2025-01-29,14.1,0.5,10.0,2024-5-16
+FLAT MARULHOS MURO ALTO 02 Estr Ac p Praia de Muro Alto e Camboa,Recife,7140,2025-01-22,2025-01-29,43.7,0.0,None,2024-5-16
+BV Paradiso,Recife,10064,2025-01-22,2025-01-29,5.6,0.0,10.0,2024-5-16
+Apto 3/4 Mobiliado em Recife Cond. CLUBE,Recife,9520,2025-01-22,2025-01-29,6.5,1.8,None,2024-5-16
+Apartamento Beira Mar em Recife,Recife,9450,2025-01-22,2025-01-29,14.1,0.5,None,2024-5-16
+apartamento,Recife,8033,2025-01-22,2025-01-29,10.1,None,None,2024-5-16
+Apduplex,Recife,13388,2025-01-22,2025-01-29,8.5,0.15,None,2024-5-16
+APTO mobiliado Candeias JBO/PE,Recife,619,2025-01-22,2025-01-29,18.1,1.2,8.0,2024-5-16
+Apartamento suite na Avenida BoaViagem,Recife,1800,2025-01-22,2025-01-29,4.3,0.5,9.8,2024-5-16
+Flat frente mar no Transamérica Beach Class International,Recife,2466,2025-01-22,2025-01-29,4.3,0.0,None,2024-5-16
+Flat Paiva Home Stay,Recife,1701,2025-01-22,2025-01-29,18.9,0.0,7.3,2024-5-16
+Pousada Joãozinho Caminhador,Recife,1260,2025-01-22,2025-01-29,11.6,0.25,6.0,2024-5-16
+Flat Super Aconchegante na Jaqueira com WI-FI e sem taxas,Recife,1900,2025-01-22,2025-01-29,3.3,None,10.0,2024-5-16
+Apart Hotel Marinas Tamandaré,Recife,958,2025-01-22,2025-01-29,4.8,None,1.0,2024-5-16
+flatpaivahome bugan paiva,Recife,1886,2025-01-22,2025-01-29,19.6,0.7,None,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1401,Recife,1533,2025-01-22,2025-01-29,1.7,None,7.7,2024-5-16
+Apartamento Alice Tenório,Recife,1960,2025-01-22,2025-01-29,6.1,0.4,9.5,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1603,Recife,1533,2025-01-22,2025-01-29,1.7,None,7.5,2024-5-16
+Excelente flat em Setúbal Boa Viagem até 4 pessoas cercado por restaurantes e supermercados PM805,Recife,1918,2025-01-22,2025-01-29,9.6,0.4,8.6,2024-5-16
+Apartamento/Flat Boa Viagem,Recife,2597,2025-01-22,2025-01-29,6.8,0.0,9.4,2024-5-16
+Quarto INDISPONÍVEL NO PRESENTE,Recife,1418,2025-01-22,2025-01-29,4.5,0.15,1.0,2024-5-16
+Flat incrível 2 qtos Beach class conselheiro,Recife,1915,2025-01-22,2025-01-29,7.7,0.25,None,2024-5-16
+Flat na Ilha do Leite Recife 1 quarto Metrópolis Localizado no coração do segundo Polo Médico do país OTH1205,Recife,1533,2025-01-22,2025-01-29,1.7,None,6.8,2024-5-16
+Hosts BR-Flat Fit Transamérica Boa Viagem s/ taxa,Recife,1971,2025-01-22,2025-01-29,7.0,0.65,8.6,2024-5-16
+BOA VIAGEM PROX AO MAR,Recife,1785,2025-01-22,2025-01-29,8.9,0.45,8.5,2024-5-16
+Hosts BR - Flats Frente Mar c/ Cozinha,Recife,1626,2025-01-22,2025-01-29,17.5,None,None,2024-5-16
+Hosts BR - Estúdio em Boa Viagem(s/taxas),Recife,1684,2025-01-22,2025-01-29,7.8,0.9,7.9,2024-5-16
+Flat em Boa Viagem,Recife,2673,2025-01-22,2025-01-29,7.0,0.7,None,2024-5-16
+Excelente 3 Quartos Rua Navegantes em Boa Viagem No melhor local da praia SAL802,Recife,3570,2025-01-22,2025-01-29,6.1,0.15,9.1,2024-5-16
+Mercure Navegantes Recife Hotel,Recife,2419,2025-01-22,2025-01-29,7.0,None,None,2024-5-16
+apto na quadra do mar,Recife,2835,2025-01-22,2025-01-29,14.5,0.25,8.0,2024-5-16
+Apto a beira-mar em Jaboatao dos Guararapes PE,Recife,2755,2025-01-22,2025-01-29,19.4,0.6,9.0,2024-5-16
+Cosmeflats,Recife,2100,2025-01-22,2025-01-29,19.6,0.75,4.4,2024-5-16
+Apt novíssimo Tamarineira,Recife,3780,2025-01-22,2025-01-29,4.1,None,10.0,2024-5-16
+Flat no melhor lugar de boa viagem,Recife,4543,2025-01-22,2025-01-29,4.5,0.2,10.0,2024-5-16
+Hostel da Socorro,Recife,2835,2025-01-22,2025-01-29,9.0,0.9,1.0,2024-5-16
+Lindo apto à beira-mar Jaboatão dos Guararapes - PE,Recife,3754,2025-01-22,2025-01-29,16.6,0.5,7.0,2024-5-16
+Incrivel apto em frente a Praia de Piedade PE,Recife,3847,2025-01-22,2025-01-29,13.2,0.0,6.0,2024-5-16
+Aconchego Boa Viagem,Recife,4032,2025-01-22,2025-01-29,8.4,None,None,2024-5-16
+Golden home service,Recife,7013,2025-01-22,2025-01-29,7.0,0.6,10.0,2024-5-16
+RESERVA DO PAIVA - A MELHOR CASA PARA TEMPORADA,Recife,10121,2025-01-22,2025-01-29,26.6,0.0,8.4,2024-5-16
+Cond Clube em Piedade noCarnaval,Recife,11246,2025-01-22,2025-01-29,15.7,1.0,None,2024-5-16
+FLAT PRAIA DOS CARNEIROS / TAMANDARÉ 06 TÉRREO,Recife,14000,2025-01-22,2025-01-29,78.2,0.1,10.0,2024-5-16

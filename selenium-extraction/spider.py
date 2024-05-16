@@ -1,5 +1,5 @@
 import time
-from bs4 import BeautifulSoup
+from beautifulSoup import Beautifulsoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -11,7 +11,7 @@ def generate_check_in_out_dates():
     dates = []
 
     # Processar meses de janeiro a maio para o ano de 2025
-    for month in range(1, 6):
+    for month in range(1, 2):
         year = 2025
         start_date = pd.Timestamp(year=year, month=month, day=1)
         end_date = start_date + pd.offsets.MonthEnd(0)
@@ -24,19 +24,19 @@ def generate_check_in_out_dates():
                     (check_in.strftime("%Y-%m-%d"), check_out.strftime("%Y-%m-%d"))
                 )
 
-    # Processar meses de junho a dezembro para o ano de 2024
-    for month in range(6, 13):
-        year = 2024
-        start_date = pd.Timestamp(year=year, month=month, day=1)
-        end_date = start_date + pd.offsets.MonthEnd(0)
-        date_range = pd.date_range(start_date, end_date, freq="7D")
+    # # Processar meses de junho a dezembro para o ano de 2024
+    # for month in range(6, 13):
+    #     year = 2024
+    #     start_date = pd.Timestamp(year=year, month=month, day=1)
+    #     end_date = start_date + pd.offsets.MonthEnd(0)
+    #     date_range = pd.date_range(start_date, end_date, freq="7D")
 
-        for check_in in date_range:
-            check_out = check_in + pd.Timedelta(days=7)
-            if check_out.month == month:
-                dates.append(
-                    (check_in.strftime("%Y-%m-%d"), check_out.strftime("%Y-%m-%d"))
-                )
+    #     for check_in in date_range:
+    #         check_out = check_in + pd.Timedelta(days=7)
+    #         if check_out.month == month:
+    #             dates.append(
+    #                 (check_in.strftime("%Y-%m-%d"), check_out.strftime("%Y-%m-%d"))
+    #             )
 
     return dates
 
@@ -45,28 +45,30 @@ def generate_check_in_out_dates():
 driver = webdriver.Chrome()
 
 cidades = [
-    "Sydney",
     "Recife",
-    "Atenas",
-    "Paris",
-    "Nova York",
-    "Tokyo",
-    "Cidade do Cabo",
+    # "Sydney",
+    # "Atenas",
+    # "Paris",
+    # "Nova York",
+    # "Tokyo",
+    # "Cidade do Cabo",
 ]
 cidades_destid = [
-    "-1603135",
-    "-665520",
-    "-814876",
-    "-1456928",
-    "20088325",
-    "-246227",
-    "-1217214",
+    "-665520", 
+    # "-1603135",
+    # "-814876",
+    # "-1456928",
+    # "20088325",
+    # "-246227",
+    # "-1217214",
 ]
 
 # Gerar datas de check-in e check-out
 checkin_checkout_dates = generate_check_in_out_dates()
 
 html = []
+checkin_data = []
+checkout_data = []
 
 for i in range(len(cidades)):
     for checkin, checkout in checkin_checkout_dates:
@@ -124,6 +126,8 @@ for i in range(len(cidades)):
 
         # Capture o HTML após rolar para baixo várias vezes e clicar no botão
         html.append(driver.page_source)
+        checkin_data.append(checkin)
+        checkout_data.append(checkout)
 
 # Feche o navegador
 driver.quit()
@@ -135,4 +139,4 @@ driver.quit()
 # with open(html_file_path, "w", encoding="utf-8") as file:
 #     file.write(html)
 
-soup = BeautifulSoup(html, "html.parser")
+soup = Beautifulsoup(html, checkin_data, checkout_data)
