@@ -28,12 +28,12 @@ class Beautifulsoup:
         # Abra o arquivo para escrita
         with open(output_csv_path, "w", encoding="utf-8") as file:
             # Escreva os dados
-            file.write("Hotel,Cidade,Preço,Checkin,Checkout,Dist_centro,Dist_praia,Avaliacao,Data_extracao\n")
+            file.write("hotel,cidade,preço,checkin,checkout,dist_centro,dist_praia,avaliacao,qtnd_avaliacoes,data_extracao\n")
 
             for itens in resultado:
                 for item in itens:
                     file.write(
-                        f"{item['Hotel']},{item['Cidade']},{item['Preço']},{item['Checkin']},{item['Checkout']},{item['Dist_centro']},{item['Dist_praia']},{item['Avaliação']},{item['Data_extracao']}\n"
+                        f"{item['Hotel']},{item['Cidade']},{item['Preço']},{item['Checkin']},{item['Checkout']},{item['Dist_centro']},{item['Dist_praia']},{item['Avaliação']},{item["Num_de_avaliacoes"]},{item['Data_extracao']}\n"
                     )
 
     def extract(self, soup, checkin, checkout):
@@ -82,7 +82,7 @@ class Beautifulsoup:
                 num_de_avaliacoes = hotel.find("div", class_="abf093bdfe f45d8e4c32 d935416c47")
                 if num_de_avaliacoes:
                     num_de_avaliacoes = int(num_de_avaliacoes.text.split(' ', 1)[0].replace('.', ''))
-
+                
                 yield {
                     "Hotel": nome,
                     "Preço": int(preco),
