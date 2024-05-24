@@ -1,10 +1,27 @@
 from bs4 import BeautifulSoup
 import datetime
 import sys
+import os
+import  glob
 
 # Leia o HTML do arquivo
 # with open(html_file_path, "r", encoding="utf-8") as file:
 #     html = file.read()
+
+meses = {
+    "janeiro": "01",
+    "fevereiro": "02",
+    "março": "03",
+    "abril": "04",
+    "maio": "05",
+    "junho": "06",
+    "julho": "07",
+    "agosto": "08",
+    "setembro": "09",
+    "outubro": "10",
+    "novembro": "11",
+    "dezembro": "12"
+}
 
 data = datetime.datetime.now()
 
@@ -37,13 +54,13 @@ class Beautifulsoup:
                     )
 
     def extract(self, soup, checkin, checkout):
-
         # Encontre os elementos desejados e extraia informações
         for hotel in soup.find_all(
             "div",
             class_="c82435a4b8 a178069f51 a6ae3c2b40 a18aeea94d d794b7a0f7 f53e278e95 c6710787a4",
         ):
             try:
+                list_check = []
                 nome = hotel.find("div", class_="f6431b446c a15b38c233").text.replace(
                     ",", ""
                 )
@@ -68,7 +85,11 @@ class Beautifulsoup:
                     elif distance_praia[0] == "Beira-mar":
                         distance_praia = float(0)
                     else:
-                        distance_praia = float(f'0.{distance_praia[0].split(" m")[0]}')
+                        distance_praia = f'{distance_praia[0].split(" m")[0].replace('.', '')}'
+                        if distance_praia != 1.0:
+                            distance_praia = float(f'0.{distance_praia}')
+                        else:
+                            distance_praia = float(distance_praia)
 
                 cidade = soup.find("h1", class_="af8fbdf136 d5f78961c3")
 
@@ -82,6 +103,26 @@ class Beautifulsoup:
                 num_de_avaliacoes = hotel.find("div", class_="abf093bdfe f45d8e4c32 d935416c47")
                 if num_de_avaliacoes:
                     num_de_avaliacoes = int(num_de_avaliacoes.text.split(' ', 1)[0].replace('.', ''))
+
+                # for check in soup.find_all("span", class_="a8887b152e"):
+                #     list_check.append(check.text)
+
+                # checkin = list_check[0]
+
+                # if checkin:
+                #     checkin = checkin.split(", ")[1].split(" de ")
+                #     dia = checkin[0].replace("º", "")
+                #     mes = meses[checkin[1]]
+                #     ano = checkin[2]
+                #     checkin = f'{ano}-{mes}-{dia}'
+                
+                # checkout = list_check[1]
+                # if checkout:
+                #     checkout = checkout.split(", ")[1].split(" de ")
+                #     dia = checkout[0]
+                #     mes = meses[checkout[1]]
+                #     ano = checkout[2]
+                #     checkout = f'{ano}-{mes}-{dia}'
                 
                 yield {
                     "Hotel": nome,
@@ -98,3 +139,20 @@ class Beautifulsoup:
 
             except NameError as e:
                 print(e)
+
+
+# Lista para armazenar os conteúdos dos arquivos HTML
+# html_contents = []
+# directory = 'c:/Users/extre/OneDrive/Documentos/ciencia de dados/selenium-extraction/html'
+
+# # Padrão para encontrar todos os arquivos HTML na pasta especificada
+# pattern = os.path.join(directory, 'page_2024-06-01_Recife.html')
+# print(pattern)
+
+# # Iterar sobre todos os arquivos HTML encontrados
+# for html_file in glob.glob(pattern):
+#     with open(html_file, 'r', encoding='utf-8') as file:
+#         # Ler o conteúdo do arquivo e adicionar à lista
+#         html_contents.append(file.read())
+
+# soup = Beautifulsoup(html_contents, 0, 0)
