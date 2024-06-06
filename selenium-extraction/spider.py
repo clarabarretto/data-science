@@ -13,7 +13,7 @@ def generate_check_in_out_dates():
     dates = []
 
     #Processar meses de janeiro a maio para o ano de 2025
-    for month in range(1, 7):
+    for month in range(7, 9):
         year = 2025
         start_date = pd.Timestamp(year=year, month=month, day=1)
         end_date = start_date + pd.offsets.MonthEnd(0)
@@ -22,25 +22,25 @@ def generate_check_in_out_dates():
         for check_in in date_range:
             check_out = check_in + pd.Timedelta(days=7)
             if check_out.month == month:
-                if check_in == pd.Timestamp(year=2025, month=5, day=22):
-                    dates.append(
+                
+                dates.append(
                         (check_in.strftime("%Y-%m-%d"), check_out.strftime("%Y-%m-%d"))
                     )
 
-    # Processar meses de junho a dezembro para o ano de 2024
-    for month in range(6, 13):
-        year = 2024
-        start_date = pd.Timestamp(year=year, month=month, day=1)
-        end_date = start_date + pd.offsets.MonthEnd(0)
-        date_range = pd.date_range(start_date, end_date, freq="7D")
+    # # Processar meses de junho a dezembro para o ano de 2024
+    # for month in range(6, 13):
+    #     year = 2024
+    #     start_date = pd.Timestamp(year=year, month=month, day=1)
+    #     end_date = start_date + pd.offsets.MonthEnd(0)
+    #     date_range = pd.date_range(start_date, end_date, freq="7D")
 
-        for check_in in date_range:
-            check_out = check_in + pd.Timedelta(days=7)
-            if check_out.month == month:
-                if check_in == pd.Timestamp(year=2025, month=1, day=1):
-                    dates.append(
-                        (check_in.strftime("%Y-%m-%d"), check_out.strftime("%Y-%m-%d"))
-                    )
+    #     for check_in in date_range:
+    #         check_out = check_in + pd.Timedelta(days=7)
+    #         if check_out.month == month:
+    #             if check_in == pd.Timestamp(year=2025, month=1, day=1):
+    #                 dates.append(
+    #                     (check_in.strftime("%Y-%m-%d"), check_out.strftime("%Y-%m-%d"))
+    #                 )
 
     return dates
 
@@ -51,7 +51,7 @@ cidades = [
     # "Recife",
     # "Sydney",
     # "Atenas",
-    # "Paris",
+    "Paris",
     # "Nova York",
     # "Tokyo",
     # "Cidade do Cabo",
@@ -61,7 +61,7 @@ cidades_destid = [
     # "-665520", 
     # "-1603135",
     # "-814876",
-    # "-1456928",
+    "-1456928",
     # "20088325",
     # "-246227",
     # "-1217214",
@@ -127,4 +127,4 @@ for i in range(len(cidades)):
 # Feche o navegador
 driver.quit()
 
-# soup = Beautifulsoup(html, checkin_data, checkout_data)
+soup = Beautifulsoup(html, checkin_data, checkout_data)

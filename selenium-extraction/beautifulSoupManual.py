@@ -40,7 +40,7 @@ class Beautifulsoup:
             resultado.append(list(self.extract(self.soup)))
 
         # Caminho do arquivo CSV
-        output_csv_path = "resultado.csv"
+        output_csv_path = "resultado1.csv"
 
         # Abra o arquivo para escrita
         with open(output_csv_path, "w", encoding="utf-8") as file:
@@ -65,9 +65,17 @@ class Beautifulsoup:
                 nome = hotel.find("div", class_="f6431b446c a15b38c233").text.replace(
                     ",", ""
                 )
-                preco = hotel.find(
+                print(hotel.find(
                     "span", class_="f6431b446c fbfd7c1165 e84eb96b1f"
-                ).text.replace("R$", "").replace('.', '')
+                ))
+                if hotel.find(
+                    "span", class_="f6431b446c fbfd7c1165 e84eb96b1f"
+                ) != None:
+                    preco = hotel.find(
+                        "span", class_="f6431b446c fbfd7c1165 e84eb96b1f"
+                    ).text.replace("R$", "").replace(".", "")
+                else:
+                    continue
                 distance_centro = hotel.find("span", attrs={"data-testid": "distance"})
 
                 if distance_centro:
@@ -143,12 +151,12 @@ class Beautifulsoup:
                 }
 
             except NameError as e:
-                print(e)
+                continue
 
 
 #Lista para armazenar os conteúdos dos arquivos HTML
 html_contents = []
-directory = 'c:/Users/extre/OneDrive/Documentos/ciencia de dados/selenium-extraction/html'
+directory = 'c:/Users/extre/OneDrive/Documentos/ciencia de dados/selenium-extraction/html_novo'
 
 # Padrão para encontrar todos os arquivos HTML na pasta especificada
 pattern = os.path.join(directory, '*.html')

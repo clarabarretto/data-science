@@ -40,7 +40,7 @@ class Beautifulsoup:
             resultado.append(list(self.extract(self.soup, checkin[i], checkout[i])))
 
         # Caminho do arquivo CSV
-        output_csv_path = "resultado.csv"
+        output_csv_path = "resultado1.csv"
 
         # Abra o arquivo para escrita
         with open(output_csv_path, "w", encoding="utf-8") as file:
