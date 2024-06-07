@@ -64,9 +64,17 @@ class Beautifulsoup:
                 nome = hotel.find("div", class_="f6431b446c a15b38c233").text.replace(
                     ",", ""
                 )
-                preco = hotel.find(
+                print(hotel.find(
                     "span", class_="f6431b446c fbfd7c1165 e84eb96b1f"
-                ).text.replace("R$", "").replace('.', '')
+                ))
+                if hotel.find(
+                    "span", class_="f6431b446c fbfd7c1165 e84eb96b1f"
+                ) != None:
+                    preco = hotel.find(
+                        "span", class_="f6431b446c fbfd7c1165 e84eb96b1f"
+                    ).text.replace("R$", "").replace(".", "")
+                else:
+                    continue
                 distance_centro = hotel.find("span", attrs={"data-testid": "distance"})
 
                 if distance_centro:
