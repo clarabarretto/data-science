@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data%20prediction/mlruns/391920513749379523/46775a8976874cdb89d2f58e4fa787d4/artifacts
+end_time: 1720141610199
+entry_point_name: ''
+experiment_id: '391920513749379523'
+lifecycle_stage: active
+run_id: 46775a8976874cdb89d2f58e4fa787d4
+run_name: shivering-stag-231
+run_uuid: 46775a8976874cdb89d2f58e4fa787d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720141583001
+status: 3
+tags: []
+user_id: extre
