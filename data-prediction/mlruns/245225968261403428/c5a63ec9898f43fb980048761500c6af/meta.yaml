@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/c5a63ec9898f43fb980048761500c6af/artifacts
+end_time: 1720491721915
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: c5a63ec9898f43fb980048761500c6af
+run_name: valuable-bear-573
+run_uuid: c5a63ec9898f43fb980048761500c6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720491214637
+status: 4
+tags: []
+user_id: extre

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/d02da2cabbf64b84b0c650435474c874/artifacts
+end_time: 1720534470959
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: d02da2cabbf64b84b0c650435474c874
+run_name: sneaky-shrew-390
+run_uuid: d02da2cabbf64b84b0c650435474c874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720533258802
+status: 3
+tags: []
+user_id: extre

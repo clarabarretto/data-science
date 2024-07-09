@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/caee103552f04f33a0f05af3c67a7d53/artifacts
+end_time: 1720508289701
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: caee103552f04f33a0f05af3c67a7d53
+run_name: abundant-ant-231
+run_uuid: caee103552f04f33a0f05af3c67a7d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720498681011
+status: 3
+tags: []
+user_id: extre
