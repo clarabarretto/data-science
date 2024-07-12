@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/8f42f0022826430ba999e717b91f6442/artifacts
+end_time: 1720683298537
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: 8f42f0022826430ba999e717b91f6442
+run_name: XGBoost
+run_uuid: 8f42f0022826430ba999e717b91f6442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720682869276
+status: 3
+tags: []
+user_id: extre

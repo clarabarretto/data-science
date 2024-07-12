@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/c0143b78f27c4ea18b2a30cc9d64a570/artifacts
+end_time: 1720734653532
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: c0143b78f27c4ea18b2a30cc9d64a570
+run_name: CatBoost_Regularization
+run_uuid: c0143b78f27c4ea18b2a30cc9d64a570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720734622402
+status: 3
+tags: []
+user_id: extre

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/97c6745ea0ea4fe0a4c72676d66aba1c/artifacts
+end_time: 1720674917720
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: 97c6745ea0ea4fe0a4c72676d66aba1c
+run_name: LinearRegression
+run_uuid: 97c6745ea0ea4fe0a4c72676d66aba1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720674910176
+status: 4
+tags: []
+user_id: extre

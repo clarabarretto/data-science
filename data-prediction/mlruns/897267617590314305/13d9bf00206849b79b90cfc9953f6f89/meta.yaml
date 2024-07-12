@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/projeto-cd/data-science/data-prediction/mlruns/897267617590314305/13d9bf00206849b79b90cfc9953f6f89/artifacts
+end_time: 1720642351650
+entry_point_name: ''
+experiment_id: '897267617590314305'
+lifecycle_stage: active
+run_id: 13d9bf00206849b79b90cfc9953f6f89
+run_name: Ridge Regression
+run_uuid: 13d9bf00206849b79b90cfc9953f6f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720642346649
+status: 3
+tags: []
+user_id: extre

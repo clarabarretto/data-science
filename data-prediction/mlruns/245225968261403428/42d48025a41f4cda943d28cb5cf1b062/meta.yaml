@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/42d48025a41f4cda943d28cb5cf1b062/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: 42d48025a41f4cda943d28cb5cf1b062
+run_name: ExtraTree_CV
+run_uuid: 42d48025a41f4cda943d28cb5cf1b062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720736397580
+status: 1
+tags: []
+user_id: extre

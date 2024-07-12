@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/projeto-cd/data-science/data-prediction/mlruns/897267617590314305/6dfc429133ec4bac96f399b80c43e1e8/artifacts
+end_time: 1720639346530
+entry_point_name: ''
+experiment_id: '897267617590314305'
+lifecycle_stage: active
+run_id: 6dfc429133ec4bac96f399b80c43e1e8
+run_name: Elastic Net Regression
+run_uuid: 6dfc429133ec4bac96f399b80c43e1e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720639300526
+status: 3
+tags: []
+user_id: extre

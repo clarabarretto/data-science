@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/projeto-cd/data-science/data-prediction/mlruns/897267617590314305/78626b1d779d461ab954069916360274/artifacts
+end_time: 1720578220444
+entry_point_name: ''
+experiment_id: '897267617590314305'
+lifecycle_stage: active
+run_id: 78626b1d779d461ab954069916360274
+run_name: SVR
+run_uuid: 78626b1d779d461ab954069916360274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720577721969
+status: 3
+tags: []
+user_id: extre

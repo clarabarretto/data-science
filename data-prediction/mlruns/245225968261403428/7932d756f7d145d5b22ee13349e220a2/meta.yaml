@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/7932d756f7d145d5b22ee13349e220a2/artifacts
+end_time: 1720644405576
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: 7932d756f7d145d5b22ee13349e220a2
+run_name: Ridge
+run_uuid: 7932d756f7d145d5b22ee13349e220a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720644400731
+status: 4
+tags: []
+user_id: extre

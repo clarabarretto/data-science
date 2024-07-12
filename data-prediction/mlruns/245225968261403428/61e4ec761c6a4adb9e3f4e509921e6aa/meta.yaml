@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/61e4ec761c6a4adb9e3f4e509921e6aa/artifacts
+end_time: 1720577715095
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: 61e4ec761c6a4adb9e3f4e509921e6aa
+run_name: loud-pug-435
+run_uuid: 61e4ec761c6a4adb9e3f4e509921e6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720577705825
+status: 4
+tags: []
+user_id: extre

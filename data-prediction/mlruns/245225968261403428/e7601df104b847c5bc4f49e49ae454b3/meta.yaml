@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/e7601df104b847c5bc4f49e49ae454b3/artifacts
+end_time: 1720656690251
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: e7601df104b847c5bc4f49e49ae454b3
+run_name: RandomForest
+run_uuid: e7601df104b847c5bc4f49e49ae454b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720654569573
+status: 3
+tags: []
+user_id: extre

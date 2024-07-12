@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/extre/OneDrive/Documentos/ciencia%20de%20dados/data-prediction/mlruns/245225968261403428/a6dbe522d9134dc6aa018e1493258b99/artifacts
+end_time: 1720727706022
+entry_point_name: ''
+experiment_id: '245225968261403428'
+lifecycle_stage: active
+run_id: a6dbe522d9134dc6aa018e1493258b99
+run_name: CatBoost
+run_uuid: a6dbe522d9134dc6aa018e1493258b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720727705533
+status: 4
+tags: []
+user_id: extre
