@@ -1,6 +1,5 @@
 <p> IF697 - Introdução a Ciência de Dados </p>
 <h1>Análise de Dados de Hospedagem em Recife</h1>
-<h2>Vídeo Apresentação: https://drive.google.com/file/d/1Cfh9ZSbDt_jVy7ipLZknGY5Ywfh4Of6z/view</h2>
 
 <h3>Descrição do Projeto</h3>
 <br>  
@@ -43,6 +42,8 @@
   - matplotlib <br>
   - seaborn <br>
 </p>
+
+<p>Vídeo Apresentação: https://drive.google.com/file/d/1Cfh9ZSbDt_jVy7ipLZknGY5Ywfh4Of6z/view</p>
 
 <h3> Autores </h3>
 <br>
